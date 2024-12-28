@@ -1,0 +1,570 @@
+{
+  "nodes": [
+    {
+      "id": "c5b8713c058c4401",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2045,
+      "y": -547,
+      "width": 1370,
+      "height": 675,
+      "color": "3",
+      "label": "The two tips"
+    },
+    {
+      "id": "ea14dfe43b815f0d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": -961,
+      "width": 1820,
+      "height": 313,
+      "label": "Taylor series construction"
+    },
+    {
+      "id": "554500d2e8d21469",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3840,
+      "y": -1095,
+      "width": 880,
+      "height": 625,
+      "color": "5",
+      "label": "Higher-Order Derivative"
+    },
+    {
+      "id": "f0f07b372c547765",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2505,
+      "y": -507,
+      "width": 880,
+      "height": 615,
+      "label": "One coefficient, one derivative"
+    },
+    {
+      "id": "79ad2d9aa8b167e1",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": -1360,
+      "width": 1071,
+      "height": 328,
+      "color": "4",
+      "label": "Philosophy"
+    },
+    {
+      "id": "a92fa0351382681b",
+      "type": "group",
+      "styleAttributes": {},
+      "isStartNode": true,
+      "x": 1260,
+      "y": -1140,
+      "width": 440,
+      "height": 670,
+      "label": "Application"
+    },
+    {
+      "id": "124cf82c39466303",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2441,
+      "y": -2180,
+      "width": 900,
+      "height": 265,
+      "label": "Converge"
+    },
+    {
+      "id": "ce83520ec4f42f1d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1130,
+      "y": -360,
+      "width": 700,
+      "height": 150,
+      "label": "Function"
+    },
+    {
+      "id": "e2fb34f5393cd264",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241219154935426.png",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -1100,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "01db205a00f22d74",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241219155007436.png",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -715,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "b717e945784afb47",
+      "type": "text",
+      "text": "**Feasible** *polynomials* that ==approximate it near some input==",
+      "styleAttributes": {},
+      "x": 1550,
+      "y": -330,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "ba6f0b251c2c9daf",
+      "type": "text",
+      "text": "**Awkward** *Non-polynomial function*",
+      "styleAttributes": {},
+      "x": 1150,
+      "y": -310,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0ed3c13ab5ab1ac7",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219170831.png",
+      "styleAttributes": {},
+      "x": 2461,
+      "y": -2160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "cedfc128712bf84b",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219170713.png",
+      "styleAttributes": {},
+      "x": 2921,
+      "y": -2160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "f93f4ff20f50e706",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219170350.png",
+      "styleAttributes": {},
+      "x": 3380,
+      "y": -2140,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "865b34714b9ae7f5",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241219155849233.png",
+      "styleAttributes": {},
+      "x": 2300,
+      "y": -894,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "790031083ede15de",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219162241.png",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": -894,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "92dedf74215d32f7",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241219155750217.png",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": -894,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "9af29381e5cb8922",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219165854.png",
+      "styleAttributes": {},
+      "x": 3012,
+      "y": -1800,
+      "width": 642,
+      "height": 361
+    },
+    {
+      "id": "85d4cc08b345fed4",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219154728.png",
+      "styleAttributes": {},
+      "x": 1842,
+      "y": -1314,
+      "width": 476,
+      "height": 268
+    },
+    {
+      "id": "747d9e3a8533ab5a",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219164009.png",
+      "styleAttributes": {},
+      "x": 3050,
+      "y": -1350,
+      "width": 565,
+      "height": 318
+    },
+    {
+      "id": "497b9220539b210f",
+      "type": "text",
+      "text": "Leverage the information about the tendency of change from derivatives into the approximation about its near-by points.",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -1230,
+      "width": 480,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "fa0912dfafa1212b",
+      "type": "file",
+      "file": "Resource/Pictures/Taylor series ｜ Chapter 11, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": -2020,
+      "width": 900,
+      "height": 506
+    },
+    {
+      "id": "0dff8a77e3cff2fb",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219162334.png",
+      "styleAttributes": {},
+      "x": 3220,
+      "y": -894,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "c63de85b280a960c",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219150809.png",
+      "styleAttributes": {},
+      "x": 3860,
+      "y": -1075,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "b6fbaefc8bc5d9a5",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219162523.png",
+      "styleAttributes": {},
+      "x": 2055,
+      "y": -477,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "98efe185038b2beb",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219162655.png",
+      "styleAttributes": {},
+      "x": 2525,
+      "y": -477,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "1e2aba4140ed460b",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219162759.png",
+      "styleAttributes": {},
+      "x": 2765,
+      "y": -147,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "7aa3c7abfe457951",
+      "type": "text",
+      "text": "To cancel out the cascading effect of power rule applications",
+      "styleAttributes": {},
+      "x": 2125,
+      "y": -180,
+      "width": 260,
+      "height": 100,
+      "color": "5"
+    },
+    {
+      "id": "2069431f4b5e0edb",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219162640.png",
+      "styleAttributes": {},
+      "x": 2965,
+      "y": -477,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "56f667cc337bc0c9",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219150818.png",
+      "styleAttributes": {},
+      "x": 4300,
+      "y": -1075,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "1092156ea2181fb0",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219150838.png",
+      "styleAttributes": {},
+      "x": 4080,
+      "y": -720,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "a4ac1487968ab4f3",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219165322.png",
+      "styleAttributes": {},
+      "x": 3850,
+      "y": -1756,
+      "width": 860,
+      "height": 484
+    },
+    {
+      "id": "1808573f529d4fa5",
+      "type": "file",
+      "file": "Resource/Pictures/Higher order derivatives ｜ Chapter 10, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": 4880,
+      "y": -1051,
+      "width": 960,
+      "height": 540
+    }
+  ],
+  "edges": [
+    {
+      "id": "7f2be423fafa37de",
+      "styleAttributes": {},
+      "fromNode": "e2fb34f5393cd264",
+      "fromSide": "bottom",
+      "toNode": "01db205a00f22d74",
+      "toSide": "top"
+    },
+    {
+      "id": "2d321fe5454dce51",
+      "styleAttributes": {},
+      "fromNode": "ba6f0b251c2c9daf",
+      "fromSide": "right",
+      "toNode": "b717e945784afb47",
+      "toSide": "left",
+      "label": "to"
+    },
+    {
+      "id": "54c8daa717db5501",
+      "styleAttributes": {},
+      "fromNode": "a92fa0351382681b",
+      "fromSide": "bottom",
+      "toNode": "ce83520ec4f42f1d",
+      "toSide": "top"
+    },
+    {
+      "id": "ec3b89ad138686e1",
+      "styleAttributes": {},
+      "fromNode": "92dedf74215d32f7",
+      "fromSide": "right",
+      "toNode": "865b34714b9ae7f5",
+      "toSide": "left"
+    },
+    {
+      "id": "a9368c1d3b619a0e",
+      "styleAttributes": {},
+      "fromNode": "865b34714b9ae7f5",
+      "fromSide": "right",
+      "toNode": "790031083ede15de",
+      "toSide": "left"
+    },
+    {
+      "id": "f4bbe80dadf81f15",
+      "styleAttributes": {},
+      "fromNode": "790031083ede15de",
+      "fromSide": "right",
+      "toNode": "0dff8a77e3cff2fb",
+      "toSide": "left"
+    },
+    {
+      "id": "c76d580ecf1c4842",
+      "styleAttributes": {},
+      "fromNode": "a92fa0351382681b",
+      "fromSide": "right",
+      "toNode": "ea14dfe43b815f0d",
+      "toSide": "left"
+    },
+    {
+      "id": "6d4c4a5c0c7fcc0e",
+      "styleAttributes": {},
+      "fromNode": "b6fbaefc8bc5d9a5",
+      "fromSide": "right",
+      "toNode": "98efe185038b2beb",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "d48426f4fa41a207",
+      "styleAttributes": {},
+      "fromNode": "98efe185038b2beb",
+      "fromSide": "bottom",
+      "toNode": "1e2aba4140ed460b",
+      "toSide": "top"
+    },
+    {
+      "id": "901d820c8bacbab0",
+      "styleAttributes": {},
+      "fromNode": "2069431f4b5e0edb",
+      "fromSide": "bottom",
+      "toNode": "1e2aba4140ed460b",
+      "toSide": "top"
+    },
+    {
+      "id": "f87433cff4a5ca53",
+      "styleAttributes": {},
+      "fromNode": "98efe185038b2beb",
+      "fromSide": "right",
+      "toNode": "2069431f4b5e0edb",
+      "toSide": "left"
+    },
+    {
+      "id": "270ca38096a02292",
+      "styleAttributes": {},
+      "fromNode": "ea14dfe43b815f0d",
+      "fromSide": "bottom",
+      "toNode": "c5b8713c058c4401",
+      "toSide": "top"
+    },
+    {
+      "id": "b393fd0129d09aaf",
+      "styleAttributes": {},
+      "fromNode": "85d4cc08b345fed4",
+      "fromSide": "right",
+      "toNode": "497b9220539b210f",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "f9fdb265a0c17cf4",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "554500d2e8d21469",
+      "fromSide": "left",
+      "toNode": "0dff8a77e3cff2fb",
+      "toSide": "right"
+    },
+    {
+      "id": "b19805d708969834",
+      "styleAttributes": {},
+      "fromNode": "c63de85b280a960c",
+      "fromSide": "bottom",
+      "toNode": "1092156ea2181fb0",
+      "toSide": "top"
+    },
+    {
+      "id": "c978061a252bbd8c",
+      "styleAttributes": {},
+      "fromNode": "56f667cc337bc0c9",
+      "fromSide": "bottom",
+      "toNode": "1092156ea2181fb0",
+      "toSide": "top"
+    },
+    {
+      "id": "0c33179b6550a402",
+      "styleAttributes": {},
+      "fromNode": "7aa3c7abfe457951",
+      "fromSide": "top",
+      "toNode": "b6fbaefc8bc5d9a5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8259d1a142ad3fd3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ea14dfe43b815f0d",
+      "fromSide": "top",
+      "toNode": "79ad2d9aa8b167e1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "da577c3f2745954a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ea14dfe43b815f0d",
+      "fromSide": "top",
+      "toNode": "747d9e3a8533ab5a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "18c8d04b6eb313eb",
+      "styleAttributes": {},
+      "fromNode": "554500d2e8d21469",
+      "fromSide": "top",
+      "toNode": "a4ac1487968ab4f3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7e94cc0694db430b",
+      "styleAttributes": {},
+      "fromNode": "ea14dfe43b815f0d",
+      "fromSide": "right",
+      "toNode": "a4ac1487968ab4f3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e0df5ad3ff87b9b1",
+      "styleAttributes": {},
+      "fromNode": "747d9e3a8533ab5a",
+      "fromSide": "top",
+      "toNode": "9af29381e5cb8922",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a2a91c0a481a3935",
+      "styleAttributes": {},
+      "fromNode": "9af29381e5cb8922",
+      "fromSide": "top",
+      "toNode": "f93f4ff20f50e706",
+      "toSide": "bottom"
+    },
+    {
+      "id": "168fd597599141dc",
+      "styleAttributes": {},
+      "fromNode": "0ed3c13ab5ab1ac7",
+      "fromSide": "right",
+      "toNode": "cedfc128712bf84b",
+      "toSide": "left"
+    },
+    {
+      "id": "8a0c5abf202780aa",
+      "styleAttributes": {},
+      "fromNode": "9af29381e5cb8922",
+      "fromSide": "top",
+      "toNode": "124cf82c39466303",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7734b73f8469ae68",
+      "styleAttributes": {},
+      "fromNode": "1808573f529d4fa5",
+      "fromSide": "left",
+      "toNode": "554500d2e8d21469",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

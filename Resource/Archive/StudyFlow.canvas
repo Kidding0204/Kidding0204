@@ -1,0 +1,607 @@
+{
+  "nodes": [
+    {
+      "id": "e8834ec35ecae3f0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 467,
+      "y": -820,
+      "width": 993,
+      "height": 380,
+      "color": "3",
+      "label": "Phases"
+    },
+    {
+      "id": "08d1edb5a3ca1420",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -79,
+      "y": -136,
+      "width": 460,
+      "height": 236,
+      "color": "1",
+      "label": "Principles"
+    },
+    {
+      "id": "0a2ad92a48368895",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 660,
+      "y": -800,
+      "width": 777,
+      "height": 100,
+      "label": "Phase 1"
+    },
+    {
+      "id": "9f07729285e6b559",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 665,
+      "y": -559,
+      "width": 763,
+      "height": 100,
+      "label": "Phase 2"
+    },
+    {
+      "id": "f9ea9757bfc1a76d",
+      "type": "text",
+      "text": "Universal Primer",
+      "styleAttributes": {},
+      "x": 177,
+      "y": -670,
+      "width": 196,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "b9b64c24d0087ebe",
+      "type": "text",
+      "text": "Start",
+      "styleAttributes": {},
+      "isStartNode": true,
+      "x": -178,
+      "y": -539,
+      "width": 119,
+      "height": 60
+    },
+    {
+      "id": "c36eb7699dfd49db",
+      "type": "text",
+      "text": "Citation",
+      "styleAttributes": {},
+      "x": 203,
+      "y": -539,
+      "width": 145,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "c1f244f4f695890b",
+      "type": "text",
+      "text": "Book",
+      "styleAttributes": {},
+      "x": 21,
+      "y": -539,
+      "width": 105,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "c0e0af58f7de0f1e",
+      "type": "text",
+      "text": "Expand Key Points",
+      "styleAttributes": {},
+      "x": 480,
+      "y": -670,
+      "width": 225,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "402862f0b884f79c",
+      "type": "text",
+      "text": "Identify Relationship among points",
+      "styleAttributes": {},
+      "x": 1157,
+      "y": -780,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "7f9c2c22668f5d3b",
+      "type": "text",
+      "text": "Understand Key Points",
+      "styleAttributes": {},
+      "x": 685,
+      "y": -780,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "3441ada7ded09655",
+      "type": "text",
+      "text": "Paper",
+      "styleAttributes": {},
+      "x": 880,
+      "y": -280,
+      "width": 113,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b6d3bd45808054ed",
+      "type": "text",
+      "text": "Socratic Tutor",
+      "styleAttributes": {},
+      "x": 622,
+      "y": -420,
+      "width": 189,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "7529ae84c3b129c4",
+      "type": "text",
+      "text": "Structure Knowledge",
+      "styleAttributes": {},
+      "x": 685,
+      "y": -539,
+      "width": 251,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "3d36aa88db126738",
+      "type": "text",
+      "text": "MindMap",
+      "styleAttributes": {},
+      "x": 521,
+      "y": -220,
+      "width": 139,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "75e327e9f934c1ea",
+      "type": "text",
+      "text": "Note",
+      "styleAttributes": {},
+      "x": 660,
+      "y": -280,
+      "width": 112,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "bf467691bb07f22d",
+      "type": "text",
+      "text": "Notability",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": 508,
+      "y": -160,
+      "width": 140,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "f1f0d73185bb10ba",
+      "type": "text",
+      "text": "Canvas",
+      "styleAttributes": {},
+      "x": 649,
+      "y": -56,
+      "width": 136,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f77bb5ce9d5479db",
+      "type": "text",
+      "text": "Video",
+      "styleAttributes": {},
+      "isStartNode": false,
+      "x": 420,
+      "y": -340,
+      "width": 121,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "777f6579a7f1caba",
+      "type": "text",
+      "text": "Slide",
+      "styleAttributes": {
+        "shape": "diamond"
+      },
+      "x": 415,
+      "y": -420,
+      "width": 106,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "57fbf084f3b02b52",
+      "type": "text",
+      "text": "Atomic ",
+      "styleAttributes": {},
+      "x": 400,
+      "y": 20,
+      "width": 120,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "b89f7019f8f5dccd",
+      "type": "text",
+      "text": "Check Understanding",
+      "styleAttributes": {},
+      "x": 1167,
+      "y": -539,
+      "width": 241,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "05b98ca85a29532a",
+      "type": "text",
+      "text": "Obsidian",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": 640,
+      "y": 20,
+      "width": 151,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "53a8e5194fc30b8f",
+      "type": "text",
+      "text": "AppleCitation",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": 188,
+      "y": -420,
+      "width": 176,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "0a2b5b19b7995334",
+      "type": "text",
+      "text": "Abstract",
+      "styleAttributes": {},
+      "x": 212,
+      "y": -280,
+      "width": 141,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "abc9280120848756",
+      "type": "text",
+      "text": "Connective",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": -54,
+      "y": 20,
+      "width": 150,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "f94358831bc8357d",
+      "type": "text",
+      "text": "Thoughtful",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": -59,
+      "y": -116,
+      "width": 159,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "fe9d7a8625867eed",
+      "type": "text",
+      "text": "Neat",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": 220,
+      "y": -116,
+      "width": 110,
+      "height": 60,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "bf772b57235731ff",
+      "styleAttributes": {},
+      "fromNode": "57fbf084f3b02b52",
+      "fromSide": "right",
+      "toNode": "05b98ca85a29532a",
+      "toSide": "left",
+      "label": "structure"
+    },
+    {
+      "id": "2667a06811d17e05",
+      "styleAttributes": {},
+      "fromNode": "0a2b5b19b7995334",
+      "fromSide": "top",
+      "toNode": "53a8e5194fc30b8f",
+      "toSide": "bottom",
+      "label": "Thought process"
+    },
+    {
+      "id": "dca6a94ead37a1e8",
+      "styleAttributes": {},
+      "fromNode": "05b98ca85a29532a",
+      "fromSide": "top",
+      "toNode": "f1f0d73185bb10ba",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9a1eddd7aa6f8bc2",
+      "styleAttributes": {},
+      "fromNode": "53a8e5194fc30b8f",
+      "fromSide": "top",
+      "toNode": "c36eb7699dfd49db",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6b7368be7b6cfb76",
+      "styleAttributes": {},
+      "fromNode": "f1f0d73185bb10ba",
+      "fromSide": "top",
+      "toNode": "75e327e9f934c1ea",
+      "toSide": "bottom",
+      "color": "4",
+      "label": "guide"
+    },
+    {
+      "id": "0e00bb1c7d5527d4",
+      "styleAttributes": {},
+      "fromNode": "b9b64c24d0087ebe",
+      "fromSide": "right",
+      "toNode": "c1f244f4f695890b",
+      "toSide": "left",
+      "color": "4",
+      "label": "learn"
+    },
+    {
+      "id": "67c4ad735f91c169",
+      "styleAttributes": {},
+      "fromNode": "c1f244f4f695890b",
+      "fromSide": "right",
+      "toNode": "c36eb7699dfd49db",
+      "toSide": "left",
+      "color": "4",
+      "label": "extract"
+    },
+    {
+      "id": "ee944c0a58b0da0f",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "777f6579a7f1caba",
+      "fromSide": "left",
+      "toNode": "f77bb5ce9d5479db",
+      "toSide": "left",
+      "color": "3",
+      "label": "False"
+    },
+    {
+      "id": "2d36b1bf7cdb0b5c",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "f77bb5ce9d5479db",
+      "fromSide": "bottom",
+      "toNode": "3d36aa88db126738",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "2af5c07198bbb441",
+      "styleAttributes": {},
+      "fromNode": "777f6579a7f1caba",
+      "fromSide": "right",
+      "toNode": "3d36aa88db126738",
+      "toSide": "top",
+      "color": "4",
+      "label": "True"
+    },
+    {
+      "id": "0213ea696634351f",
+      "styleAttributes": {},
+      "fromNode": "c36eb7699dfd49db",
+      "fromSide": "right",
+      "toNode": "777f6579a7f1caba",
+      "toSide": "top",
+      "color": "4",
+      "label": "check"
+    },
+    {
+      "id": "b9d5e8df36d35954",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": null
+      },
+      "fromNode": "c1f244f4f695890b",
+      "fromSide": "bottom",
+      "toNode": "75e327e9f934c1ea",
+      "toSide": "left",
+      "color": "3",
+      "label": "cite"
+    },
+    {
+      "id": "e9e47945b28d8ac7",
+      "styleAttributes": {},
+      "fromNode": "3441ada7ded09655",
+      "fromSide": "left",
+      "toNode": "75e327e9f934c1ea",
+      "toSide": "right",
+      "color": "3"
+    },
+    {
+      "id": "27f1e56beff6d30d",
+      "styleAttributes": {},
+      "fromNode": "75e327e9f934c1ea",
+      "fromSide": "bottom",
+      "toNode": "3441ada7ded09655",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "0d003c6bc6f1d0d8",
+      "styleAttributes": {},
+      "fromNode": "75e327e9f934c1ea",
+      "fromSide": "top",
+      "toNode": "b6d3bd45808054ed",
+      "toSide": "bottom",
+      "label": "faq"
+    },
+    {
+      "id": "fd3da88652ba47ae",
+      "styleAttributes": {},
+      "fromNode": "c36eb7699dfd49db",
+      "fromSide": "top",
+      "toNode": "f9ea9757bfc1a76d",
+      "toSide": "bottom",
+      "label": "faq"
+    },
+    {
+      "id": "13eb87606e3be42b",
+      "styleAttributes": {},
+      "fromNode": "7f9c2c22668f5d3b",
+      "fromSide": "right",
+      "toNode": "402862f0b884f79c",
+      "toSide": "left"
+    },
+    {
+      "id": "63372904d233c0ec",
+      "styleAttributes": {},
+      "fromNode": "b89f7019f8f5dccd",
+      "fromSide": "left",
+      "toNode": "7529ae84c3b129c4",
+      "toSide": "right"
+    },
+    {
+      "id": "d7ff7cf769caa896",
+      "styleAttributes": {},
+      "fromNode": "c0e0af58f7de0f1e",
+      "fromSide": "top",
+      "toNode": "7f9c2c22668f5d3b",
+      "toSide": "left"
+    },
+    {
+      "id": "36039ee16ca1c787",
+      "styleAttributes": {},
+      "fromNode": "7529ae84c3b129c4",
+      "fromSide": "left",
+      "toNode": "c0e0af58f7de0f1e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "49cb59b59939767f",
+      "styleAttributes": {},
+      "fromNode": "402862f0b884f79c",
+      "fromSide": "bottom",
+      "toNode": "b89f7019f8f5dccd",
+      "toSide": "top"
+    },
+    {
+      "id": "386ea88efd5ecad9",
+      "styleAttributes": {},
+      "fromNode": "0a2ad92a48368895",
+      "fromSide": "left",
+      "toNode": "c36eb7699dfd49db",
+      "toSide": "right"
+    },
+    {
+      "id": "1b9b953272b9a64e",
+      "styleAttributes": {},
+      "fromNode": "9f07729285e6b559",
+      "fromSide": "bottom",
+      "toNode": "75e327e9f934c1ea",
+      "toSide": "right"
+    },
+    {
+      "id": "043b0e84966db2e4",
+      "styleAttributes": {},
+      "fromNode": "abc9280120848756",
+      "fromSide": "right",
+      "toNode": "57fbf084f3b02b52",
+      "toSide": "left"
+    },
+    {
+      "id": "7ffce5b610268873",
+      "styleAttributes": {},
+      "fromNode": "f94358831bc8357d",
+      "fromSide": "right",
+      "toNode": "fe9d7a8625867eed",
+      "toSide": "left"
+    },
+    {
+      "id": "0ddb741738f99360",
+      "styleAttributes": {},
+      "fromNode": "fe9d7a8625867eed",
+      "fromSide": "right",
+      "toNode": "57fbf084f3b02b52",
+      "toSide": "top",
+      "label": "concise"
+    },
+    {
+      "id": "1b5680fdf6c689c3",
+      "styleAttributes": {},
+      "fromNode": "abc9280120848756",
+      "fromSide": "right",
+      "toNode": "fe9d7a8625867eed",
+      "toSide": "bottom",
+      "label": "remove redundancy"
+    },
+    {
+      "id": "5f090cc5d8e014c9",
+      "styleAttributes": {},
+      "fromNode": "f94358831bc8357d",
+      "fromSide": "bottom",
+      "toNode": "abc9280120848756",
+      "toSide": "top"
+    },
+    {
+      "id": "3defa149d7ade916",
+      "styleAttributes": {},
+      "fromNode": "fe9d7a8625867eed",
+      "fromSide": "top",
+      "toNode": "0a2b5b19b7995334",
+      "toSide": "bottom",
+      "label": "faster"
+    },
+    {
+      "id": "d2385ca9cac392f9",
+      "styleAttributes": {},
+      "fromNode": "f94358831bc8357d",
+      "fromSide": "top",
+      "toNode": "0a2b5b19b7995334",
+      "toSide": "left"
+    },
+    {
+      "id": "573b34b47bf28d5f",
+      "styleAttributes": {},
+      "fromNode": "bf467691bb07f22d",
+      "fromSide": "bottom",
+      "toNode": "f1f0d73185bb10ba",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

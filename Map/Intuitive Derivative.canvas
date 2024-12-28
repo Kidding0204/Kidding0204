@@ -1,0 +1,292 @@
+{
+  "nodes": [
+    {
+      "id": "48de4a919469662f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -600,
+      "width": 1020,
+      "height": 265,
+      "label": "Paradox"
+    },
+    {
+      "id": "0630eed514f9f36e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1680,
+      "y": -200,
+      "width": 440,
+      "height": 605,
+      "label": "The illusion of instantaneous"
+    },
+    {
+      "id": "3eee38615e995e89",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": 360,
+      "width": 440,
+      "height": 585,
+      "label": "Derivative in pure math"
+    },
+    {
+      "id": "cdd9e4b8448b8a95",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214201422023.png",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 140,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ba7085ffca2320c6",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214201700516.png",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": -160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "97932125d28a8cbe",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214183944412.png",
+      "styleAttributes": {},
+      "x": -560,
+      "y": -580,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "de7c195f13726bc6",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214195032934.png",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 700,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "a641c19474ccc14f",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214192241540.png",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": 400,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "15f95f4c6a2ea554",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214192225702.png",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": 700,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "5e36be0dad2c5487",
+      "type": "file",
+      "file": "Resource/Pictures/The paradox of the derivative ｜ Chapter 2, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": -1600,
+      "y": -805,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "043613ab16765722",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214183921284.png",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "9a0e462311f34386",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214185605581.png",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ff03c2e125564b7c",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214183857674.png",
+      "styleAttributes": {},
+      "x": 20,
+      "y": -580,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "739b9984b1349ed3",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214190145910.png",
+      "styleAttributes": {},
+      "x": -520,
+      "y": 540,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "1bea1c9852bb3218",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214185536033.png",
+      "styleAttributes": {},
+      "x": 60,
+      "y": 160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "83bfe254b34d5631",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214183028724.png",
+      "styleAttributes": {},
+      "isStartNode": true,
+      "x": -280,
+      "y": -940,
+      "width": 400,
+      "height": 225
+    }
+  ],
+  "edges": [
+    {
+      "id": "0fd7bef102ac5c0b",
+      "styleAttributes": {},
+      "fromNode": "83bfe254b34d5631",
+      "fromSide": "bottom",
+      "toNode": "97932125d28a8cbe",
+      "toSide": "top",
+      "label": "Instantaneous"
+    },
+    {
+      "id": "2bd8b873c9716cae",
+      "styleAttributes": {},
+      "fromNode": "83bfe254b34d5631",
+      "fromSide": "bottom",
+      "toNode": "ff03c2e125564b7c",
+      "toSide": "top",
+      "label": "The definition of v"
+    },
+    {
+      "id": "2a18ec2b0a62b17d",
+      "styleAttributes": {},
+      "fromNode": "9a0e462311f34386",
+      "fromSide": "bottom",
+      "toNode": "1bea1c9852bb3218",
+      "toSide": "top"
+    },
+    {
+      "id": "eef196b8ad336aa9",
+      "styleAttributes": {},
+      "fromNode": "48de4a919469662f",
+      "fromSide": "bottom",
+      "toNode": "043613ab16765722",
+      "toSide": "top",
+      "label": "correspond to figure"
+    },
+    {
+      "id": "4ffedf8a140d3f5d",
+      "styleAttributes": {},
+      "fromNode": "48de4a919469662f",
+      "fromSide": "bottom",
+      "toNode": "9a0e462311f34386",
+      "toSide": "top",
+      "label": "In reality"
+    },
+    {
+      "id": "e32d424a39b3ce0a",
+      "styleAttributes": {},
+      "fromNode": "043613ab16765722",
+      "fromSide": "bottom",
+      "toNode": "739b9984b1349ed3",
+      "toSide": "top",
+      "label": "solution"
+    },
+    {
+      "id": "cbc54efad6d29753",
+      "styleAttributes": {},
+      "fromNode": "1bea1c9852bb3218",
+      "fromSide": "bottom",
+      "toNode": "739b9984b1349ed3",
+      "toSide": "top",
+      "label": "In math"
+    },
+    {
+      "id": "95aea489d81ab246",
+      "styleAttributes": {},
+      "fromNode": "a641c19474ccc14f",
+      "fromSide": "bottom",
+      "toNode": "15f95f4c6a2ea554",
+      "toSide": "top",
+      "label": "dt -> 0"
+    },
+    {
+      "id": "4ff2d2ce5a5e3c01",
+      "styleAttributes": {},
+      "fromNode": "739b9984b1349ed3",
+      "fromSide": "left",
+      "toNode": "3eee38615e995e89",
+      "toSide": "right"
+    },
+    {
+      "id": "ceaaf491482bdd83",
+      "styleAttributes": {},
+      "fromNode": "3eee38615e995e89",
+      "fromSide": "left",
+      "toNode": "de7c195f13726bc6",
+      "toSide": "right",
+      "label": "easy to compute"
+    },
+    {
+      "id": "bea606bc5ae7dd09",
+      "styleAttributes": {},
+      "fromNode": "de7c195f13726bc6",
+      "fromSide": "bottom",
+      "toNode": "15f95f4c6a2ea554",
+      "toSide": "bottom",
+      "label": "approximation because of dt omitting"
+    },
+    {
+      "id": "b621f48ce614784d",
+      "styleAttributes": {},
+      "fromNode": "0630eed514f9f36e",
+      "fromSide": "top",
+      "toNode": "83bfe254b34d5631",
+      "toSide": "left"
+    },
+    {
+      "id": "658789727b028caf",
+      "styleAttributes": {},
+      "fromNode": "de7c195f13726bc6",
+      "fromSide": "top",
+      "toNode": "0630eed514f9f36e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bda8619c018eb2e4",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "0630eed514f9f36e",
+      "fromSide": "right",
+      "toNode": "15f95f4c6a2ea554",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    }
+  ],
+  "metadata": {}
+}

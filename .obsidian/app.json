@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Fleeting",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "vimMode": true,
+  "attachmentFolderPath": "Resource/Pictures",
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "propertiesInDocument": "hidden",
+  "showRibbon": false,
+  "userIgnoreFilters": [
+    "Resource/Pictures/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Primary",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 17,
+  "nativeMenus": false,
+  "accentColor": "#bf616a",
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "interfaceFontFamily": "Inter",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "image-background"
+  ]
+}

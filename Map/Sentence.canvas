@@ -1,0 +1,131 @@
+{
+  "nodes": [
+    {
+      "id": "e77f281ac99f2b39",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -740,
+      "y": 540,
+      "width": 1160,
+      "height": 460,
+      "label": "Job"
+    },
+    {
+      "id": "89fe225f0b7aea6f",
+      "type": "file",
+      "file": "Fleeting/Grammar/Main Verb.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -160,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "b67bab793e5b7778",
+      "type": "file",
+      "file": "Fleeting/Grammar/Predicate.md",
+      "styleAttributes": {},
+      "x": 260,
+      "y": -740,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "b9855be175f66a8c",
+      "type": "file",
+      "file": "Fleeting/Grammar/Object.md",
+      "styleAttributes": {},
+      "x": 580,
+      "y": -160,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "a71b55bee81ea4ce",
+      "type": "file",
+      "file": "Fleeting/Grammar/Subject.md",
+      "styleAttributes": {},
+      "x": -500,
+      "y": -740,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "5226242cc72a112a",
+      "type": "file",
+      "file": "Fleeting/Grammar/Complement.md",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": -740,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "c1c8b29ba1ce0c70",
+      "type": "file",
+      "file": "Fleeting/Grammar/Agreement with the subject.md",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 580,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "085788bfdc61ab8e",
+      "type": "file",
+      "file": "Fleeting/Grammar/Tense.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 580,
+      "width": 400,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "a00e217baef0f58d",
+      "styleAttributes": {},
+      "fromNode": "b9855be175f66a8c",
+      "fromSide": "top",
+      "toNode": "b67bab793e5b7778",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a3fea9da826db663",
+      "styleAttributes": {},
+      "fromNode": "a71b55bee81ea4ce",
+      "fromSide": "right",
+      "toNode": "b67bab793e5b7778",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "0b9887e651abb5b1",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "fromNode": "b67bab793e5b7778",
+      "fromSide": "right",
+      "toNode": "5226242cc72a112a",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "83790fd0b671f157",
+      "styleAttributes": {},
+      "fromNode": "89fe225f0b7aea6f",
+      "fromSide": "top",
+      "toNode": "b67bab793e5b7778",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2dfb4795c4ffbee8",
+      "styleAttributes": {},
+      "fromNode": "e77f281ac99f2b39",
+      "fromSide": "top",
+      "toNode": "89fe225f0b7aea6f",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

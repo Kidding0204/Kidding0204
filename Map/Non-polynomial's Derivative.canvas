@@ -1,0 +1,326 @@
+{
+  "nodes": [
+    {
+      "id": "7b9639d56db0cce4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 980,
+      "y": -540,
+      "width": 2640,
+      "height": 1005,
+      "label": "Exponent"
+    },
+    {
+      "id": "78c6da75a2fe61cd",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -230,
+      "y": -476,
+      "width": 980,
+      "height": 953,
+      "label": " Power Rule"
+    },
+    {
+      "id": "d555f6d39a6c774e",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214204243468.png",
+      "styleAttributes": {},
+      "x": -210,
+      "y": -429,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "8f6a8778d42a824b",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214215416068.png",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "4bebf60ec8ba217f",
+      "type": "text",
+      "text": "trigonometric function",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -890,
+      "y": -264,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "dbc7d1d151791066",
+      "type": "file",
+      "file": "Resource/Pictures/Derivative formulas through geometry ｜ Chapter 3, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -565,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "5595b349ae210306",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214205302976.png",
+      "styleAttributes": {},
+      "x": 70,
+      "y": -89,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "b4a913afe75340b5",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214205041853.png",
+      "styleAttributes": {},
+      "x": 70,
+      "y": 231,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "3c2da47761006d36",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214204633933.png",
+      "styleAttributes": {},
+      "x": 330,
+      "y": -429,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "0ddfcfdbfff37ece",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 320,
+      "y": -640,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "9a73a5e141bc145a",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215152945.png",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": -14,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "1c5e5804b3a61ce8",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241215143706698.png",
+      "styleAttributes": {},
+      "x": 2280,
+      "y": -529,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "e0aaf88965ad1dc5",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215143842.png",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": -529,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "34271f634b3b6927",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215143923.png",
+      "styleAttributes": {},
+      "x": 3200,
+      "y": -529,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "eb6ed6cdc2495fca",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215143951.png",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": -89,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "30ec92a0488b7cd2",
+      "type": "text",
+      "text": "Some variable's rate of change is proportional to itself",
+      "styleAttributes": {},
+      "x": 1100,
+      "y": 260,
+      "width": 320,
+      "height": 128,
+      "color": "4"
+    },
+    {
+      "id": "90fac2637c625567",
+      "type": "text",
+      "text": "Give the meaning to the constant in the exponent- The proportion between its current value and its rate of change.",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 49,
+      "width": 400,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "785a6795c6ab596d",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215144711.png",
+      "styleAttributes": {},
+      "x": 1980,
+      "y": -14,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "6725607a05c09309",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215152741.png",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 211,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "e0470ae4ccc00f01",
+      "type": "file",
+      "file": "Resource/Pictures/What's so special about Euler's number e？ ｜ Chapter 5, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": -340,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "1636f7ecba57e824",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215144346.png",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": 211,
+      "width": 400,
+      "height": 225
+    }
+  ],
+  "edges": [
+    {
+      "id": "9cd36527f3f98182",
+      "styleAttributes": {},
+      "fromNode": "d555f6d39a6c774e",
+      "fromSide": "bottom",
+      "toNode": "5595b349ae210306",
+      "toSide": "top"
+    },
+    {
+      "id": "8e676e6c3751b88b",
+      "styleAttributes": {},
+      "fromNode": "5595b349ae210306",
+      "fromSide": "bottom",
+      "toNode": "b4a913afe75340b5",
+      "toSide": "top"
+    },
+    {
+      "id": "146df018aa137026",
+      "styleAttributes": {},
+      "fromNode": "3c2da47761006d36",
+      "fromSide": "bottom",
+      "toNode": "5595b349ae210306",
+      "toSide": "top"
+    },
+    {
+      "id": "41225490a9c89337",
+      "styleAttributes": {},
+      "fromNode": "1c5e5804b3a61ce8",
+      "fromSide": "bottom",
+      "toNode": "eb6ed6cdc2495fca",
+      "toSide": "top"
+    },
+    {
+      "id": "1320afe5557b98a3",
+      "styleAttributes": {},
+      "fromNode": "785a6795c6ab596d",
+      "fromSide": "top",
+      "toNode": "1c5e5804b3a61ce8",
+      "toSide": "left"
+    },
+    {
+      "id": "b2a8bae3e3af5b39",
+      "styleAttributes": {},
+      "fromNode": "e0aaf88965ad1dc5",
+      "fromSide": "bottom",
+      "toNode": "eb6ed6cdc2495fca",
+      "toSide": "top"
+    },
+    {
+      "id": "8559a57cc3aa820f",
+      "styleAttributes": {},
+      "fromNode": "34271f634b3b6927",
+      "fromSide": "bottom",
+      "toNode": "eb6ed6cdc2495fca",
+      "toSide": "top"
+    },
+    {
+      "id": "1d014db8c7f96f27",
+      "styleAttributes": {},
+      "fromNode": "eb6ed6cdc2495fca",
+      "fromSide": "bottom",
+      "toNode": "1636f7ecba57e824",
+      "toSide": "top"
+    },
+    {
+      "id": "b3c61efb711ea2e3",
+      "styleAttributes": {},
+      "fromNode": "1636f7ecba57e824",
+      "fromSide": "left",
+      "toNode": "785a6795c6ab596d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "34d1d81993203868",
+      "styleAttributes": {},
+      "fromNode": "785a6795c6ab596d",
+      "fromSide": "left",
+      "toNode": "90fac2637c625567",
+      "toSide": "right"
+    },
+    {
+      "id": "f3d903862c00c8a5",
+      "styleAttributes": {},
+      "fromNode": "90fac2637c625567",
+      "fromSide": "bottom",
+      "toNode": "30ec92a0488b7cd2",
+      "toSide": "right"
+    },
+    {
+      "id": "24ad396241a4de20",
+      "styleAttributes": {},
+      "fromNode": "6725607a05c09309",
+      "fromSide": "left",
+      "toNode": "30ec92a0488b7cd2",
+      "toSide": "right"
+    },
+    {
+      "id": "38b24ced7d957463",
+      "styleAttributes": {},
+      "fromNode": "4bebf60ec8ba217f",
+      "fromSide": "bottom",
+      "toNode": "8f6a8778d42a824b",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,1043 @@
+{
+  "nodes": [
+    {
+      "id": "07350abd29ec2bd9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 440,
+      "y": -540,
+      "width": 670,
+      "height": 1040,
+      "label": "3-1"
+    },
+    {
+      "id": "f7b21e00e100f19c",
+      "type": "group",
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -1760,
+      "y": -780,
+      "width": 700,
+      "height": 936,
+      "label": "2-1"
+    },
+    {
+      "id": "3941faa8e0399858",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -880,
+      "width": 620,
+      "height": 1036,
+      "label": "2-2"
+    },
+    {
+      "id": "eb5402cc820709ee",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": -210,
+      "width": 680,
+      "height": 710,
+      "label": "3-2"
+    },
+    {
+      "id": "d8b183df29fb4a02",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 80,
+      "y": -780,
+      "width": 318,
+      "height": 1101,
+      "label": "Summer"
+    },
+    {
+      "id": "774ff6523310ea9b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -980,
+      "y": -780,
+      "width": 345,
+      "height": 936,
+      "label": "Winter"
+    },
+    {
+      "id": "13a7782f6bcbca8d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -900,
+      "y": 221,
+      "width": 898,
+      "height": 299,
+      "label": "Tools"
+    },
+    {
+      "id": "b3d77bd5c58197fd",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1630,
+      "y": 500,
+      "width": 650,
+      "height": 220,
+      "label": "Main"
+    },
+    {
+      "id": "924ff9a40d11e3ea",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -885,
+      "y": 610,
+      "width": 610,
+      "height": 200,
+      "label": "English"
+    },
+    {
+      "id": "e18473895f1e1095",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": 126,
+      "width": 300,
+      "height": 374,
+      "label": "Winter"
+    },
+    {
+      "id": "1d1bb49855dd7f6e",
+      "type": "text",
+      "text": "Linux",
+      "styleAttributes": {},
+      "x": -880,
+      "y": 241,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9b1267fe35a94d02",
+      "type": "text",
+      "text": "Emacs",
+      "styleAttributes": {},
+      "x": -880,
+      "y": 340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ad74b85d5f390cd7",
+      "type": "text",
+      "text": "CS 61 B. BLOW&Final_Exam",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -520,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "d555bddaadd92292",
+      "type": "text",
+      "text": "MIT 6.006: Introduction to Algorithms",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -400,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "c5e001d6cc6aded9",
+      "type": "text",
+      "text": "ProGit",
+      "styleAttributes": {},
+      "x": -880,
+      "y": 440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dee2a613a4f13cb3",
+      "type": "text",
+      "text": "CSAPP",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -190,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "6b697a82acb14f94",
+      "type": "text",
+      "text": "Stanford CS106B: Programming Abstractions in C++",
+      "styleAttributes": {},
+      "x": -960,
+      "y": 65,
+      "width": 305,
+      "height": 71,
+      "color": "4"
+    },
+    {
+      "id": "adc4f04eda20324e",
+      "type": "text",
+      "text": "MIT18.02: Multivariable Calculus",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -760,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "dd8d8cf9aefd5669",
+      "type": "text",
+      "text": "NJU Compilers",
+      "styleAttributes": {},
+      "x": -551,
+      "y": -290,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "bdad645d7308236d",
+      "type": "text",
+      "text": "MIT18.06: Linear Algebra",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -760,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "f13fcbb8caf67bba",
+      "type": "text",
+      "text": "CS 61 C. Hardware Part",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -160,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "08dd57dc5b63371c",
+      "type": "text",
+      "text": "Coursera: Algorithms I & II",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -520,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "3edb91a281d48842",
+      "type": "text",
+      "text": "EECS 151/251 A",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -270,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "37234029f76d2dda",
+      "type": "text",
+      "text": "EnglishPod",
+      "styleAttributes": {},
+      "x": -555,
+      "y": 630,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3614b2ed02d06230",
+      "type": "text",
+      "text": "Vocabulary",
+      "styleAttributes": {},
+      "x": -865,
+      "y": 730,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "25177102f1d0384a",
+      "type": "text",
+      "text": "SVC",
+      "styleAttributes": {},
+      "x": -1610,
+      "y": 520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d06ab6ceb4db97b2",
+      "type": "text",
+      "text": "Readings",
+      "styleAttributes": {},
+      "x": -555,
+      "y": 730,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "48dd6cc6340e1a06",
+      "type": "text",
+      "text": "SICP",
+      "styleAttributes": {},
+      "x": -1260,
+      "y": 520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f792cc0b8ed48119",
+      "type": "text",
+      "text": "Nand 2 Tetris",
+      "styleAttributes": {},
+      "x": -1610,
+      "y": 630,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bba6a687a2f43d4f",
+      "type": "text",
+      "text": "Grammar",
+      "styleAttributes": {},
+      "x": -1260,
+      "y": 630,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0f91521e373b290a",
+      "type": "text",
+      "text": "Nand2Tetris",
+      "styleAttributes": {},
+      "x": -1740,
+      "y": -160,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "c0ebab7b122294ed",
+      "type": "text",
+      "text": "Introductory C Programming Specialization",
+      "styleAttributes": {},
+      "x": -1740,
+      "y": 73,
+      "width": 281,
+      "height": 55,
+      "color": "4"
+    },
+    {
+      "id": "3dcda89009d1d132",
+      "type": "text",
+      "text": "MIT18.01: Single Variable Calculus",
+      "styleAttributes": {},
+      "x": -1740,
+      "y": -760,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "3c6101ae78925403",
+      "type": "text",
+      "text": "CS110L: Safety in Systems Programming",
+      "styleAttributes": {},
+      "x": 100,
+      "y": -35,
+      "width": 260,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "d7b2b3c444147464",
+      "type": "text",
+      "text": "CS3110：OCaml Programming Correct + Efficient + Beautiful",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 131,
+      "width": 267,
+      "height": 81,
+      "color": "3"
+    },
+    {
+      "id": "1d35df348ae5f60c",
+      "type": "text",
+      "text": "CS189: Introduction to Machine Learning",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 301,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "073fea092eca11b9",
+      "type": "text",
+      "text": "CS242 Programming Languages",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 146,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "82c59b455a354490",
+      "type": "text",
+      "text": "MIT 6.031: Software Construction",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 146,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "609890fbad7f4503",
+      "type": "text",
+      "text": "SICP",
+      "styleAttributes": {},
+      "x": 490,
+      "y": 241,
+      "width": 115,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "5f02c7969d0aa323",
+      "type": "text",
+      "text": "CS188: Introduction to Artificial Intelligence",
+      "styleAttributes": {},
+      "x": 830,
+      "y": 420,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "8ca57ef3dffb9faf",
+      "type": "text",
+      "text": "MIT 6.854: Advanced Algorithm",
+      "styleAttributes": {},
+      "x": 2220,
+      "y": -520,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "ce68f71e5f9568dc",
+      "type": "text",
+      "text": "MIT 6.S081: Operating System Engineering",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": -190,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "dc8415db380eeee3",
+      "type": "text",
+      "text": "MIT6.824: Distributed System",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -190,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "9c257ee9b9eb8e77",
+      "type": "text",
+      "text": "Coursera: Deep Learning",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 420,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "563dbc75e520c7eb",
+      "type": "text",
+      "text": "CMU 10-414/714: Deep Learning Systems",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": 420,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "45f5590a7cdf93b9",
+      "type": "text",
+      "text": "Coursera: Machine Learning",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 420,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "50d8997b2dad6fd3",
+      "type": "text",
+      "text": "CS431: Concurrent Programming",
+      "styleAttributes": {},
+      "x": 475,
+      "y": -40,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f42dc5e91b3879a9",
+      "type": "text",
+      "text": "CS144: Computer Network",
+      "styleAttributes": {},
+      "x": 475,
+      "y": -190,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "db3f1259b05c2afe",
+      "type": "text",
+      "text": "CS420: Compiler Design",
+      "styleAttributes": {},
+      "x": 830,
+      "y": -290,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "b7e2492eeccbb587",
+      "type": "text",
+      "text": "MIT 6.046: Design and Analysis of Algorithms",
+      "styleAttributes": {},
+      "x": 830,
+      "y": -520,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "77275f392a9c4ab2",
+      "type": "text",
+      "text": "CS 61 A. Scheme Part",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 241,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "73a277f3c8fcf2b3",
+      "type": "text",
+      "text": "Gdb",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 241,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7fd7dc8e1efdaa8a",
+      "type": "text",
+      "text": "CommandLine",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5b48e06c926724ff",
+      "type": "text",
+      "text": "Vim",
+      "styleAttributes": {},
+      "x": -282,
+      "y": 440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "63e7b9d301e15cbd",
+      "type": "text",
+      "text": "Make",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f9c311cc02270581",
+      "type": "text",
+      "text": "Stanford CS106L: Standard C++ Programming",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 71,
+      "width": 278,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "5c02436b26436045",
+      "type": "text",
+      "text": "MIT 6.041SC: [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)",
+      "styleAttributes": {},
+      "x": -560,
+      "y": -860,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "fcf5f5a57fe54300",
+      "type": "text",
+      "text": "CS170: Efficient Algorithms and Intractable Problems",
+      "styleAttributes": {},
+      "x": -240,
+      "y": -520,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "28a7e01de8e4793d",
+      "type": "text",
+      "text": "UCB CS70 : discrete Math and probability theory",
+      "styleAttributes": {},
+      "x": -560,
+      "y": -760,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "e4ed5539ded65700",
+      "type": "text",
+      "text": "UCB CS126 : Probability theory",
+      "styleAttributes": {},
+      "x": 107,
+      "y": -760,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "1d6b5c34a97cacd9",
+      "type": "text",
+      "text": "CMU 15-445: Database Systems",
+      "styleAttributes": {},
+      "x": -240,
+      "y": -190,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "e18635ec05188e5d",
+      "type": "text",
+      "text": "PKU 编译原理实践",
+      "styleAttributes": {},
+      "x": -240,
+      "y": -290,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "78d0ef382b951b63",
+      "styleAttributes": {},
+      "fromNode": "b7e2492eeccbb587",
+      "fromSide": "right",
+      "toNode": "8ca57ef3dffb9faf",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e87be60c7009ba46",
+      "styleAttributes": {},
+      "fromNode": "77275f392a9c4ab2",
+      "fromSide": "right",
+      "toNode": "609890fbad7f4503",
+      "toSide": "left"
+    },
+    {
+      "id": "5ba93ca3f03f6bd8",
+      "styleAttributes": {},
+      "fromNode": "28a7e01de8e4793d",
+      "fromSide": "right",
+      "toNode": "e4ed5539ded65700",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "f8b5b0a1f1769bad",
+      "styleAttributes": {},
+      "fromNode": "5c02436b26436045",
+      "fromSide": "right",
+      "toNode": "e4ed5539ded65700",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "23d608dc3745dbfe",
+      "styleAttributes": {},
+      "fromNode": "d555bddaadd92292",
+      "fromSide": "right",
+      "toNode": "fcf5f5a57fe54300",
+      "toSide": "left"
+    },
+    {
+      "id": "e056d72ecaea36e4",
+      "styleAttributes": {},
+      "fromNode": "ad74b85d5f390cd7",
+      "fromSide": "right",
+      "toNode": "fcf5f5a57fe54300",
+      "toSide": "left"
+    },
+    {
+      "id": "05323527f4387eac",
+      "styleAttributes": {},
+      "fromNode": "fcf5f5a57fe54300",
+      "fromSide": "right",
+      "toNode": "b7e2492eeccbb587",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "15cc2cb08ce62d0a",
+      "styleAttributes": {},
+      "fromNode": "bdad645d7308236d",
+      "fromSide": "right",
+      "toNode": "28a7e01de8e4793d",
+      "toSide": "left"
+    },
+    {
+      "id": "d4698bf415aac8f9",
+      "styleAttributes": {},
+      "fromNode": "28a7e01de8e4793d",
+      "fromSide": "bottom",
+      "toNode": "fcf5f5a57fe54300",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "a219274941550447",
+      "styleAttributes": {},
+      "fromNode": "f9c311cc02270581",
+      "fromSide": "right",
+      "toNode": "f42dc5e91b3879a9",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "f0abe22c55cf5e5f",
+      "styleAttributes": {},
+      "fromNode": "dee2a613a4f13cb3",
+      "fromSide": "right",
+      "toNode": "1d6b5c34a97cacd9",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "d6b1dd2f632a8440",
+      "styleAttributes": {},
+      "fromNode": "6b697a82acb14f94",
+      "fromSide": "right",
+      "toNode": "f9c311cc02270581",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "3dcb8e27442ab268",
+      "styleAttributes": {},
+      "fromNode": "08dd57dc5b63371c",
+      "fromSide": "right",
+      "toNode": "ad74b85d5f390cd7",
+      "toSide": "left"
+    },
+    {
+      "id": "5506d2020eb13a05",
+      "styleAttributes": {},
+      "fromNode": "0f91521e373b290a",
+      "fromSide": "right",
+      "toNode": "f13fcbb8caf67bba",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "8732db32bd42ba26",
+      "styleAttributes": {},
+      "fromNode": "f13fcbb8caf67bba",
+      "fromSide": "right",
+      "toNode": "dee2a613a4f13cb3",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "28509dba6cff9f26",
+      "styleAttributes": {},
+      "fromNode": "0f91521e373b290a",
+      "fromSide": "right",
+      "toNode": "3edb91a281d48842",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "94880ce257f292f4",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "3edb91a281d48842",
+      "fromSide": "right",
+      "toNode": "dee2a613a4f13cb3",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "47e0a7a3fe25d901",
+      "styleAttributes": {},
+      "fromNode": "c0ebab7b122294ed",
+      "fromSide": "right",
+      "toNode": "6b697a82acb14f94",
+      "toSide": "left"
+    },
+    {
+      "id": "22db324d6b525b9e",
+      "styleAttributes": {},
+      "fromNode": "3dcda89009d1d132",
+      "fromSide": "right",
+      "toNode": "adc4f04eda20324e",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "74260fef747a5ae0",
+      "styleAttributes": {},
+      "fromNode": "08dd57dc5b63371c",
+      "fromSide": "right",
+      "toNode": "d555bddaadd92292",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "a8785b358b13a48a",
+      "styleAttributes": {},
+      "fromNode": "adc4f04eda20324e",
+      "fromSide": "right",
+      "toNode": "bdad645d7308236d",
+      "toSide": "left"
+    },
+    {
+      "id": "46249b55d6f52b18",
+      "styleAttributes": {},
+      "fromNode": "c0ebab7b122294ed",
+      "fromSide": "right",
+      "toNode": "dee2a613a4f13cb3",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "303af3f10d872d96",
+      "styleAttributes": {},
+      "fromNode": "f9c311cc02270581",
+      "fromSide": "top",
+      "toNode": "1d6b5c34a97cacd9",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "c96460fb2a5a732b",
+      "styleAttributes": {},
+      "fromNode": "f9c311cc02270581",
+      "fromSide": "right",
+      "toNode": "77275f392a9c4ab2",
+      "toSide": "left"
+    },
+    {
+      "id": "575c618e81daab54",
+      "styleAttributes": {},
+      "fromNode": "dee2a613a4f13cb3",
+      "fromSide": "right",
+      "toNode": "dd8d8cf9aefd5669",
+      "toSide": "left"
+    },
+    {
+      "id": "029cfe74a81f0945",
+      "styleAttributes": {},
+      "fromNode": "dd8d8cf9aefd5669",
+      "fromSide": "right",
+      "toNode": "e18635ec05188e5d",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "03fe3c5457b3f27d",
+      "styleAttributes": {},
+      "fromNode": "e18635ec05188e5d",
+      "fromSide": "right",
+      "toNode": "db3f1259b05c2afe",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "285d1b7fa80cdb7a",
+      "styleAttributes": {},
+      "fromNode": "3c6101ae78925403",
+      "fromSide": "right",
+      "toNode": "50d8997b2dad6fd3",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "df40456f6add1285",
+      "styleAttributes": {},
+      "fromNode": "f9c311cc02270581",
+      "fromSide": "right",
+      "toNode": "3c6101ae78925403",
+      "toSide": "left"
+    },
+    {
+      "id": "69f905980257aee3",
+      "styleAttributes": {},
+      "fromNode": "1d6b5c34a97cacd9",
+      "fromSide": "right",
+      "toNode": "f42dc5e91b3879a9",
+      "toSide": "left"
+    },
+    {
+      "id": "0c360ceb1c814a3e",
+      "styleAttributes": {},
+      "fromNode": "50d8997b2dad6fd3",
+      "fromSide": "right",
+      "toNode": "db3f1259b05c2afe",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "90d112d58628686d",
+      "styleAttributes": {},
+      "fromNode": "f9c311cc02270581",
+      "fromSide": "right",
+      "toNode": "d7b2b3c444147464",
+      "toSide": "left"
+    },
+    {
+      "id": "7590678ae29c524b",
+      "styleAttributes": {},
+      "fromNode": "bdad645d7308236d",
+      "fromSide": "right",
+      "toNode": "5c02436b26436045",
+      "toSide": "left"
+    },
+    {
+      "id": "27e1a70fae6dbd1a",
+      "styleAttributes": {},
+      "fromNode": "d7b2b3c444147464",
+      "fromSide": "right",
+      "toNode": "609890fbad7f4503",
+      "toSide": "left"
+    },
+    {
+      "id": "8426c69c52ca00f8",
+      "styleAttributes": {},
+      "fromNode": "5f02c7969d0aa323",
+      "fromSide": "right",
+      "toNode": "45f5590a7cdf93b9",
+      "toSide": "left"
+    },
+    {
+      "id": "bc7b4d3cd6ba582d",
+      "styleAttributes": {},
+      "fromNode": "45f5590a7cdf93b9",
+      "fromSide": "top",
+      "toNode": "1d35df348ae5f60c",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "84f4a594fb8f8349",
+      "styleAttributes": {},
+      "fromNode": "1d35df348ae5f60c",
+      "fromSide": "right",
+      "toNode": "9c257ee9b9eb8e77",
+      "toSide": "left"
+    },
+    {
+      "id": "43df23e883dd4fcd",
+      "styleAttributes": {},
+      "fromNode": "45f5590a7cdf93b9",
+      "fromSide": "right",
+      "toNode": "9c257ee9b9eb8e77",
+      "toSide": "left"
+    },
+    {
+      "id": "9b3312027a2039a8",
+      "styleAttributes": {},
+      "fromNode": "9c257ee9b9eb8e77",
+      "fromSide": "right",
+      "toNode": "563dbc75e520c7eb",
+      "toSide": "left"
+    },
+    {
+      "id": "f9dccdd0635aa94c",
+      "styleAttributes": {},
+      "fromNode": "d7b2b3c444147464",
+      "fromSide": "right",
+      "toNode": "073fea092eca11b9",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "a519819cbeae80c8",
+      "styleAttributes": {},
+      "fromNode": "50d8997b2dad6fd3",
+      "fromSide": "right",
+      "toNode": "073fea092eca11b9",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "8395ac0c75f6305d",
+      "styleAttributes": {},
+      "fromNode": "073fea092eca11b9",
+      "fromSide": "right",
+      "toNode": "82c59b455a354490",
+      "toSide": "left"
+    },
+    {
+      "id": "c3d139f89597c4da",
+      "styleAttributes": {},
+      "fromNode": "f42dc5e91b3879a9",
+      "fromSide": "right",
+      "toNode": "ce68f71e5f9568dc",
+      "toSide": "left"
+    },
+    {
+      "id": "ffd273aaa50c732c",
+      "styleAttributes": {},
+      "fromNode": "ce68f71e5f9568dc",
+      "fromSide": "right",
+      "toNode": "dc8415db380eeee3",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

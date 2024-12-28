@@ -1,0 +1,89 @@
+{
+  "nodes": [
+    {
+      "id": "8bc1b32e525884b4",
+      "type": "file",
+      "file": "Permanent/Higher-Order Procedures.md",
+      "styleAttributes": {},
+      "x": -500,
+      "y": -440,
+      "width": 440,
+      "height": 560
+    },
+    {
+      "id": "d9a65740caf3fd82",
+      "type": "file",
+      "file": "Permanent/1732868413-JSTG.md",
+      "styleAttributes": {},
+      "x": 800,
+      "y": -460,
+      "width": 400,
+      "height": 580
+    },
+    {
+      "id": "1cceeb30139142ee",
+      "type": "file",
+      "file": "Permanent/1732869136-RSXM.md",
+      "styleAttributes": {},
+      "x": 800,
+      "y": 180,
+      "width": 400,
+      "height": 500
+    },
+    {
+      "id": "210c6b22d08423c4",
+      "type": "text",
+      "text": "![[1732855412-GRSI#Procedures as Returned Value]]",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -60,
+      "width": 430,
+      "height": 500
+    },
+    {
+      "id": "2208a4d6c43c8088",
+      "type": "text",
+      "text": "![[1732855412-GRSI#Procedures as Arguments]]",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -620,
+      "width": 430,
+      "height": 500
+    }
+  ],
+  "edges": [
+    {
+      "id": "2b0f7957680f2099",
+      "styleAttributes": {},
+      "fromNode": "8bc1b32e525884b4",
+      "fromSide": "right",
+      "toNode": "2208a4d6c43c8088",
+      "toSide": "left"
+    },
+    {
+      "id": "c969322533427fe3",
+      "styleAttributes": {},
+      "fromNode": "8bc1b32e525884b4",
+      "fromSide": "right",
+      "toNode": "210c6b22d08423c4",
+      "toSide": "left"
+    },
+    {
+      "id": "cc806707ae27622d",
+      "styleAttributes": {},
+      "fromNode": "210c6b22d08423c4",
+      "fromSide": "right",
+      "toNode": "d9a65740caf3fd82",
+      "toSide": "left"
+    },
+    {
+      "id": "8f28fde9bf12630b",
+      "styleAttributes": {},
+      "fromNode": "d9a65740caf3fd82",
+      "fromSide": "bottom",
+      "toNode": "1cceeb30139142ee",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

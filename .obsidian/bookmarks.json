@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1733105222210,
+      "path": "Image.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1733578479317,
+      "path": "Literature/English Grammar.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1733633974291,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1733633938018,
+          "path": "Resource/Archive/GTD.canvas"
+        },
+        {
+          "type": "file",
+          "ctime": 1733633962698,
+          "path": "Resource/Archive/StudyFlow.canvas"
+        },
+        {
+          "type": "file",
+          "ctime": 1733633966241,
+          "path": "Resource/Archive/TimeArrangement.canvas"
+        }
+      ],
+      "title": "Meta"
+    },
+    {
+      "type": "group",
+      "ctime": 1734608014733,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1734608006013,
+          "path": "Map/Calculus.canvas"
+        }
+      ],
+      "title": "Math"
+    }
+  ]
+}
