@@ -1,0 +1,26 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "note": [
+        {
+          "changes": {
+            "icon": "lucide-pencil"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "icon": "lucide-info"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

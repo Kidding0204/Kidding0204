@@ -1,0 +1,348 @@
+{
+  "nodes": [
+    {
+      "id": "2168a6dcb5beb829",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2460,
+      "y": -600,
+      "width": 1480,
+      "height": 1130,
+      "label": "Graph view of Integral"
+    },
+    {
+      "id": "ec18bfbae82875e8",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 800,
+      "width": 1040,
+      "height": 680,
+      "label": "Average of continuous values"
+    },
+    {
+      "id": "e4dac63fcb59c575",
+      "type": "file",
+      "file": "Permanent/Riemann Sum.md",
+      "styleAttributes": {},
+      "x": -440,
+      "y": -860,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d0962285042d79b2",
+      "type": "file",
+      "file": "Permanent/MVC.md",
+      "styleAttributes": {},
+      "x": 160,
+      "y": -960,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cc062ce98eb905b9",
+      "type": "file",
+      "file": "Permanent/FTC-1.md",
+      "styleAttributes": {},
+      "x": 160,
+      "y": -400,
+      "width": 400,
+      "height": 440
+    },
+    {
+      "id": "6a1dcd0f6972bd1b",
+      "type": "file",
+      "file": "Permanent/Definite Integral.md",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -299,
+      "width": 400,
+      "height": 800
+    },
+    {
+      "id": "e917f7c511a2c29b",
+      "type": "file",
+      "file": "Permanent/FTC-2.md",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 200,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "2d11c0adf201efac",
+      "type": "file",
+      "file": "Permanent/Derivative.md",
+      "styleAttributes": {},
+      "x": -880,
+      "y": -1060,
+      "width": 400,
+      "height": 600
+    },
+    {
+      "id": "5e7dc57476dbd9e9",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219111702.png",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -292,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "4c0ebbbcbafc9417",
+      "type": "file",
+      "file": "Permanent/Indefinite Integral.md",
+      "styleAttributes": {},
+      "x": 880,
+      "y": 80,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "232e4233e56de085",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219103444.png",
+      "styleAttributes": {},
+      "x": 880,
+      "y": 580,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "d5ba00102d7176da",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219101131.png",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": -309,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "0aedfb1df868d3f2",
+      "type": "text",
+      "text": "### Why do we not use **$\\Sigma$** sum notation?\nBecause it's not an *accumulation* for a ==specific== *interval*, instead for ==any== *interval* that **tend to be zero** which indicated by the *integral notation*. ",
+      "styleAttributes": {},
+      "x": -1480,
+      "y": -587,
+      "width": 480,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "6d4dcdcd0e25deec",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219111731.png",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": 278,
+      "width": 400,
+      "height": 225,
+      "color": "4"
+    },
+    {
+      "id": "f63ef44aa41f94ad",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219101332.png",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": -2,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "e7de2f2c7506f3d9",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219133216.png",
+      "styleAttributes": {},
+      "x": -1620,
+      "y": 840,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "aecd4041439ed160",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219124142.png",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 840,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "9c80c4e6f784aa0f",
+      "type": "file",
+      "file": "Resource/Pictures/Integration and the fundamental theorem of calculus ｜ Chapter 8, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": -2440,
+      "y": -280,
+      "width": 818,
+      "height": 460
+    },
+    {
+      "id": "8e6b80b6b23b06cc",
+      "type": "file",
+      "file": "Resource/Pictures/What does area have to do with slope？ ｜ Chapter 9, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": -2189,
+      "y": 1180,
+      "width": 498,
+      "height": 280
+    },
+    {
+      "id": "7b746ac188f913a8",
+      "type": "text",
+      "text": "### Why we need integral?\nConvert the question which need to sum the ==infinite== number of samples to the question which need ==only two point==.",
+      "styleAttributes": {},
+      "x": -1600,
+      "y": 1220,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "4dc3abbf760c881c",
+      "type": "file",
+      "file": "Permanent/Numerical Approximation.md",
+      "styleAttributes": {},
+      "x": -440,
+      "y": -1440,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "2eee7aec0a5c7697",
+      "styleAttributes": {},
+      "fromNode": "e917f7c511a2c29b",
+      "fromSide": "right",
+      "toNode": "4c0ebbbcbafc9417",
+      "toSide": "left"
+    },
+    {
+      "id": "3e688e2fba9ac614",
+      "styleAttributes": {},
+      "fromNode": "e4dac63fcb59c575",
+      "fromSide": "bottom",
+      "toNode": "6a1dcd0f6972bd1b",
+      "toSide": "top"
+    },
+    {
+      "id": "dedd9ebdca182d73",
+      "styleAttributes": {},
+      "fromNode": "2d11c0adf201efac",
+      "fromSide": "bottom",
+      "toNode": "6a1dcd0f6972bd1b",
+      "toSide": "top"
+    },
+    {
+      "id": "0c924173b3860e9f",
+      "styleAttributes": {},
+      "fromNode": "4dc3abbf760c881c",
+      "fromSide": "bottom",
+      "toNode": "e4dac63fcb59c575",
+      "toSide": "top"
+    },
+    {
+      "id": "03bc579f6c2d8b7e",
+      "styleAttributes": {},
+      "fromNode": "6a1dcd0f6972bd1b",
+      "fromSide": "right",
+      "toNode": "e917f7c511a2c29b",
+      "toSide": "left"
+    },
+    {
+      "id": "d7943959ff1ba9d3",
+      "styleAttributes": {},
+      "fromNode": "6a1dcd0f6972bd1b",
+      "fromSide": "right",
+      "toNode": "cc062ce98eb905b9",
+      "toSide": "left"
+    },
+    {
+      "id": "9d9f76a0bcdb2216",
+      "styleAttributes": {},
+      "fromNode": "d0962285042d79b2",
+      "fromSide": "bottom",
+      "toNode": "cc062ce98eb905b9",
+      "toSide": "top"
+    },
+    {
+      "id": "156d128ee7367835",
+      "styleAttributes": {},
+      "fromNode": "d5ba00102d7176da",
+      "fromSide": "bottom",
+      "toNode": "f63ef44aa41f94ad",
+      "toSide": "top"
+    },
+    {
+      "id": "4a7339901414268c",
+      "styleAttributes": {},
+      "fromNode": "0aedfb1df868d3f2",
+      "fromSide": "bottom",
+      "toNode": "d5ba00102d7176da",
+      "toSide": "top"
+    },
+    {
+      "id": "7ca61023c9f06e56",
+      "styleAttributes": {},
+      "fromNode": "cc062ce98eb905b9",
+      "fromSide": "right",
+      "toNode": "5e7dc57476dbd9e9",
+      "toSide": "left"
+    },
+    {
+      "id": "f56f9f504d3eefe2",
+      "styleAttributes": {},
+      "fromNode": "e917f7c511a2c29b",
+      "fromSide": "right",
+      "toNode": "232e4233e56de085",
+      "toSide": "left"
+    },
+    {
+      "id": "8183cabc782bc795",
+      "styleAttributes": {},
+      "fromNode": "f63ef44aa41f94ad",
+      "fromSide": "right",
+      "toNode": "6a1dcd0f6972bd1b",
+      "toSide": "left"
+    },
+    {
+      "id": "c167cb0c57a75702",
+      "styleAttributes": {},
+      "fromNode": "6d4dcdcd0e25deec",
+      "fromSide": "top",
+      "toNode": "f63ef44aa41f94ad",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9fdc79fd09789813",
+      "styleAttributes": {},
+      "fromNode": "aecd4041439ed160",
+      "fromSide": "right",
+      "toNode": "e7de2f2c7506f3d9",
+      "toSide": "left"
+    },
+    {
+      "id": "9adeae4f231cac3c",
+      "styleAttributes": {},
+      "fromNode": "e7de2f2c7506f3d9",
+      "fromSide": "bottom",
+      "toNode": "7b746ac188f913a8",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "f4f0aedd8a91720f",
+      "styleAttributes": {},
+      "fromNode": "2168a6dcb5beb829",
+      "fromSide": "bottom",
+      "toNode": "ec18bfbae82875e8",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

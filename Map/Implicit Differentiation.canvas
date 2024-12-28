@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "id": "faf9dd210341654e",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241215165736011.png",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -340,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "41e2c6dd7efb5673",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241215165839073.png",
+      "styleAttributes": {},
+      "x": 280,
+      "y": -340,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ecf41bccc1c84d96",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241215165958293.png",
+      "styleAttributes": {},
+      "x": 20,
+      "y": 0,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ba47c969895130a7",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241215170055468.png",
+      "styleAttributes": {},
+      "x": -220,
+      "y": 320,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "c9520749c38660f6",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241215170213056.png",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 320,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "2c93aa6eb2007fc2",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241215170301256.png",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 320,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "f3d2245c807af014",
+      "type": "file",
+      "file": "Resource/Pictures/Implicit differentiation, what's going on here？ ｜ Chapter 6, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": 880,
+      "y": -220,
+      "width": 400,
+      "height": 225
+    }
+  ],
+  "edges": [
+    {
+      "id": "341099072066c3ff",
+      "styleAttributes": {},
+      "fromNode": "faf9dd210341654e",
+      "fromSide": "bottom",
+      "toNode": "ecf41bccc1c84d96",
+      "toSide": "top"
+    },
+    {
+      "id": "123cc7aa73a97b96",
+      "styleAttributes": {},
+      "fromNode": "41e2c6dd7efb5673",
+      "fromSide": "bottom",
+      "toNode": "ecf41bccc1c84d96",
+      "toSide": "top"
+    },
+    {
+      "id": "dceb95253624c0d7",
+      "styleAttributes": {},
+      "fromNode": "faf9dd210341654e",
+      "fromSide": "bottom",
+      "toNode": "ba47c969895130a7",
+      "toSide": "top"
+    },
+    {
+      "id": "bb871c38d3fb6b30",
+      "styleAttributes": {},
+      "fromNode": "ecf41bccc1c84d96",
+      "fromSide": "bottom",
+      "toNode": "ba47c969895130a7",
+      "toSide": "top"
+    },
+    {
+      "id": "0eb5bbc006037e20",
+      "styleAttributes": {},
+      "fromNode": "ba47c969895130a7",
+      "fromSide": "right",
+      "toNode": "c9520749c38660f6",
+      "toSide": "left"
+    },
+    {
+      "id": "df226db6ec3cf870",
+      "styleAttributes": {},
+      "fromNode": "c9520749c38660f6",
+      "fromSide": "right",
+      "toNode": "2c93aa6eb2007fc2",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

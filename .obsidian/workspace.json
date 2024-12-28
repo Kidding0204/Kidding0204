@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "aaaccdcf26ff902e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf869d01a781550c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ca506adda403c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Definite Integral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definite Integral"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f942723dacb875f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ae52e56e0c958d",
+        "type": "tabs",
+        "dimension": 67.8082191780822,
+        "children": [
+          {
+            "id": "6964c37fee2d6baa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed9e10541cc9232c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Permanent/Definite Integral.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Definite Integral"
+            }
+          },
+          {
+            "id": "97a87b7388628eb2",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f5b0fbb5c3e18438",
+        "type": "tabs",
+        "dimension": 32.19178082191781,
+        "children": [
+          {
+            "id": "1e126b763de25d66",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Map/Intuitive Derivative.canvas",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7947214832364474,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Intuitive Derivative"
+            }
+          },
+          {
+            "id": "8bf3cf372075161f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-view",
+              "state": {},
+              "icon": "chevron-left-square",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "87d051057f5e300d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "b324ba1e101e0607",
+    "type": "split",
+    "children": [
+      {
+        "id": "08aba7f093d170c1",
+        "type": "tabs",
+        "dimension": 57.786116322701695,
+        "children": [
+          {
+            "id": "d0a74d58781a4008",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7540f9cf40088aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5c64c933a2dffedf",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "file": "Permanent/Definite Integral.md",
+                "itemId": 24,
+                "attachmentId": 2,
+                "follow": null
+              },
+              "icon": "highlighter",
+              "title": "Zotero Annotations"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a0b72e0e94e3ba0a",
+        "type": "tabs",
+        "dimension": 42.213883677298305,
+        "children": [
+          {
+            "id": "43ce4010922ff713",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permanent/Definite Integral.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Definite Integral"
+            }
+          },
+          {
+            "id": "d754e61f90a4e860",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fleeting/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-cleaner-redux:Clean files": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "6964c37fee2d6baa",
+  "lastOpenFiles": [
+    "Permanent/Derivative.md",
+    "Permanent/Definite Integral.md",
+    "Permanent/Riemann Sum.md",
+    "Map/Integral.canvas",
+    "Map/Taylor Series.canvas",
+    "Map/Calculus.canvas",
+    "Map/Non-polynomial's Derivative.canvas",
+    "Map/Implicit Differentiation.canvas",
+    "Literature/ChatGPT.md",
+    "Map/Higher-Order Procedures.canvas",
+    "Permanent/Procedures.md",
+    "Permanent/1732855412-GRSI.md",
+    "Map/Data.canvas",
+    "Fleeting/Grammar/Agreement with the subject.md",
+    "Fleeting/test.md",
+    "Map/Polynomial's Derivative.canvas",
+    "Map/f(x) as Transformation.canvas",
+    "Map/Formal Derivative.canvas",
+    "Permanent/1732868413-JSTG.md",
+    "Resource/Pictures/IMG-20241223104727896.png",
+    "Resource/Pictures/IMG-20241223104253080.png",
+    "Resource/Pictures/IMG-20241223103510445.png",
+    "Resource/Pictures/IMG-20241223103141223.png",
+    "Resource/Pictures/handwriting.png",
+    "Resource/Pictures/Pasted image 20241221233159.png",
+    "Resource/Pictures/Pasted image 20241221233140.png",
+    "Resource/ZtTemplates/zt-annot.eta.md",
+    "Resource/Pictures/IMG-20241203111409034.png",
+    "Resource/Pictures/IMG-20241207174708755.png",
+    "Resource/Pictures/7NLKABSW.png",
+    "Literature/abelsonStructureInterpretationComputer2002.md",
+    "abelsonStructureInterpretationComputer2002.md",
+    "Resource/PDFs/SICP.pdf",
+    "Resource/ZtTemplates",
+    "Fleeting/SICP-2024-12-21.md",
+    "Fleeting/SICP-2024-12- 21.md",
+    "Fleeting/SICP.canvas.md",
+    "Fleeting/SICP.md",
+    "Resource/Excalidraw/List.excalidraw.md",
+    "Resource/Excalidraw/Verb.excalidraw.md",
+    "Literature/202412071035.md",
+    "Literature/English Grammar.md",
+    "Resource/Pictures/Ink/Drawing/2024.12.21 - 21.42pm.drawing",
+    "Literature/abelsonStructureInterpretationComputer.md",
+    "ZtImgExcerpt",
+    "LiteratureNotes/Quick_start_guideZoteroDocumentation.md",
+    "LiteratureNotes",
+    "Resource/Pictures/The essence of calculus.webm",
+    "Resource/Pictures/The paradox of the derivative ｜ Chapter 2, Essence of calculus.webm",
+    "Resource/Pictures/Derivative formulas through geometry ｜ Chapter 3, Essence of calculus.webm",
+    "Resource/Pictures/Visualizing the chain rule and product rule ｜ Chapter 4, Essence of calculus.webm",
+    "Resource/Pictures/What's so special about Euler's number e？ ｜ Chapter 5, Essence of calculus.webm",
+    "Fleeting/Grammar/adjective.md",
+    "Resource/Pictures/Pasted image 20241214183028.png.md",
+    "Fleeting/Grammar/To Infinitive.md",
+    "Fleeting/Grammar/Infinitive.md"
+  ]
+}

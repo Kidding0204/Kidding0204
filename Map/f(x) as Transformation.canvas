@@ -1,0 +1,305 @@
+{
+  "nodes": [
+    {
+      "id": "d4057763e062b6a7",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1030,
+      "y": 600,
+      "width": 2060,
+      "height": 517,
+      "label": "Application"
+    },
+    {
+      "id": "0bb721700b10de32",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -660,
+      "y": -80,
+      "width": 1320,
+      "height": 533,
+      "color": "5",
+      "label": "Exampele"
+    },
+    {
+      "id": "5a002736a6d667fa",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -480,
+      "width": 960,
+      "height": 265,
+      "color": "1",
+      "label": "Alternate view: f(x) as a transformation"
+    },
+    {
+      "id": "1c46e594d186230d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -1116,
+      "width": 440,
+      "height": 500,
+      "color": "4",
+      "label": "Slope is just a behavior"
+    },
+    {
+      "id": "d5931dfd4f54ce0b",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219185752.png",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -460,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "0668e02ed38c4026",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219185849.png",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -460,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "5d8e161914127f86",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190357.png",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -60,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "f21297dbd7f411d3",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190136.png",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -60,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ba2f4b96c93850e9",
+      "type": "text",
+      "text": "*Derivative* is about how **sensitive** the function is to ==tiny little nudges== around the input.\nAnd the *slope* is just **one way** to think about the sensitivity relevant only to this ==particular way of viewing functions==.",
+      "styleAttributes": {},
+      "x": -210,
+      "y": -846,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "577fc56c7ef9168a",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219182932.png",
+      "styleAttributes": {},
+      "x": -210,
+      "y": -1086,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "b3d3189e8586b85c",
+      "type": "file",
+      "file": "Resource/Pictures/The_other_way_to_visualize_derivatives__Chapter_12_Essence_of_calculus.webm",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": -1107,
+      "width": 880,
+      "height": 495
+    },
+    {
+      "id": "2da9988d88e5ffc7",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190051.png",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -60,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "de4f8e1211c6eed2",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190011.png",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 208,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "1c28cb73d1613bda",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190033.png",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 208,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "94792db04b45aab7",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190532.png",
+      "styleAttributes": {},
+      "x": 70,
+      "y": 628,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "cb579368f3ee522f",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190449.png",
+      "styleAttributes": {},
+      "x": -1010,
+      "y": 740,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "4a77bc481bf59f15",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190500.png",
+      "styleAttributes": {},
+      "x": -470,
+      "y": 740,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "17d82bb21f1a6ed5",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219185502.png",
+      "styleAttributes": {},
+      "x": 610,
+      "y": 741,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "feb1c4180b1da588",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190520.png",
+      "styleAttributes": {},
+      "x": 70,
+      "y": 880,
+      "width": 400,
+      "height": 225
+    }
+  ],
+  "edges": [
+    {
+      "id": "7ad29aef90b9581e",
+      "styleAttributes": {},
+      "fromNode": "0bb721700b10de32",
+      "fromSide": "bottom",
+      "toNode": "d4057763e062b6a7",
+      "toSide": "top"
+    },
+    {
+      "id": "0d20c83c00e67d6a",
+      "styleAttributes": {},
+      "fromNode": "5a002736a6d667fa",
+      "fromSide": "bottom",
+      "toNode": "0bb721700b10de32",
+      "toSide": "top"
+    },
+    {
+      "id": "de53c36f3db2b14d",
+      "styleAttributes": {},
+      "fromNode": "1c46e594d186230d",
+      "fromSide": "bottom",
+      "toNode": "5a002736a6d667fa",
+      "toSide": "top"
+    },
+    {
+      "id": "f8a897ad526044a4",
+      "styleAttributes": {},
+      "fromNode": "d5931dfd4f54ce0b",
+      "fromSide": "right",
+      "toNode": "0668e02ed38c4026",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "b3029c86dcb0bc61",
+      "styleAttributes": {},
+      "fromNode": "5d8e161914127f86",
+      "fromSide": "right",
+      "toNode": "f21297dbd7f411d3",
+      "toSide": "left"
+    },
+    {
+      "id": "d343eeadf848e413",
+      "styleAttributes": {},
+      "fromNode": "f21297dbd7f411d3",
+      "fromSide": "right",
+      "toNode": "2da9988d88e5ffc7",
+      "toSide": "left"
+    },
+    {
+      "id": "992c54c5e7abfef8",
+      "styleAttributes": {},
+      "fromNode": "2da9988d88e5ffc7",
+      "fromSide": "right",
+      "toNode": "de4f8e1211c6eed2",
+      "toSide": "left"
+    },
+    {
+      "id": "7246046285470bbd",
+      "styleAttributes": {},
+      "fromNode": "de4f8e1211c6eed2",
+      "fromSide": "right",
+      "toNode": "1c28cb73d1613bda",
+      "toSide": "left"
+    },
+    {
+      "id": "270e0f235d0c200d",
+      "styleAttributes": {},
+      "fromNode": "94792db04b45aab7",
+      "fromSide": "right",
+      "toNode": "17d82bb21f1a6ed5",
+      "toSide": "left"
+    },
+    {
+      "id": "49c83704364f44a8",
+      "styleAttributes": {},
+      "fromNode": "4a77bc481bf59f15",
+      "fromSide": "right",
+      "toNode": "94792db04b45aab7",
+      "toSide": "left"
+    },
+    {
+      "id": "64c1188c4a2b0f4b",
+      "styleAttributes": {},
+      "fromNode": "cb579368f3ee522f",
+      "fromSide": "right",
+      "toNode": "4a77bc481bf59f15",
+      "toSide": "left"
+    },
+    {
+      "id": "18c7e007c58922de",
+      "styleAttributes": {},
+      "fromNode": "4a77bc481bf59f15",
+      "fromSide": "right",
+      "toNode": "feb1c4180b1da588",
+      "toSide": "left"
+    },
+    {
+      "id": "056385fa5834ed68",
+      "styleAttributes": {},
+      "fromNode": "feb1c4180b1da588",
+      "fromSide": "right",
+      "toNode": "17d82bb21f1a6ed5",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

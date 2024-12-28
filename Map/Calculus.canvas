@@ -1,0 +1,176 @@
+{
+  "nodes": [
+    {
+      "id": "8952465268aa8846",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -540,
+      "y": -1500,
+      "width": 980,
+      "height": 960,
+      "color": "2",
+      "label": "Differentiation"
+    },
+    {
+      "id": "d860cdc16fa96512",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -540,
+      "y": -380,
+      "width": 980,
+      "height": 440,
+      "color": "6",
+      "label": "Derivative"
+    },
+    {
+      "id": "aee47652465d382b",
+      "type": "file",
+      "file": "Resource/Pictures/The essence of calculus.webm",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": -1160,
+      "width": 711,
+      "height": 400
+    },
+    {
+      "id": "afc6948ef334b678",
+      "type": "file",
+      "file": "Map/f(x) as Transformation.canvas",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": -360,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "c948d1da4fefc3cd",
+      "type": "file",
+      "file": "Map/Intuitive Derivative.canvas",
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -520,
+      "y": -360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5184fe56d23dd95f",
+      "type": "file",
+      "file": "Map/Polynomial's Derivative.canvas",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -1460,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "77ffd25638eb917b",
+      "type": "file",
+      "file": "Map/Formal Derivative.canvas",
+      "styleAttributes": {},
+      "x": 20,
+      "y": -360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6142e14ebead31b9",
+      "type": "file",
+      "file": "Map/Implicit Differentiation.canvas",
+      "styleAttributes": {},
+      "x": 20,
+      "y": -1160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3fb50ec767db21eb",
+      "type": "file",
+      "file": "Map/Taylor Series.canvas",
+      "styleAttributes": {},
+      "x": 880,
+      "y": -570,
+      "width": 1000,
+      "height": 820,
+      "color": "2"
+    },
+    {
+      "id": "d7791b6f8f871976",
+      "type": "file",
+      "file": "Map/Non-polynomial's Derivative.canvas",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -960,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "88708e9121e1da00",
+      "type": "file",
+      "file": "Map/Integral.canvas",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 220,
+      "width": 660,
+      "height": 400,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "f5e26a5820a1b50e",
+      "styleAttributes": {},
+      "fromNode": "c948d1da4fefc3cd",
+      "fromSide": "right",
+      "toNode": "77ffd25638eb917b",
+      "toSide": "left"
+    },
+    {
+      "id": "a2132b03bc990cfb",
+      "styleAttributes": {},
+      "fromNode": "5184fe56d23dd95f",
+      "fromSide": "bottom",
+      "toNode": "d7791b6f8f871976",
+      "toSide": "top",
+      "label": "reduce to"
+    },
+    {
+      "id": "00def24b5b52fff9",
+      "styleAttributes": {},
+      "fromNode": "8952465268aa8846",
+      "fromSide": "bottom",
+      "toNode": "d860cdc16fa96512",
+      "toSide": "top",
+      "label": "to get"
+    },
+    {
+      "id": "d2e69d31e1bb6919",
+      "styleAttributes": {},
+      "fromNode": "d860cdc16fa96512",
+      "fromSide": "bottom",
+      "toNode": "88708e9121e1da00",
+      "toSide": "top",
+      "label": "integrate to"
+    },
+    {
+      "id": "a3ad9b8a82b06a59",
+      "styleAttributes": {},
+      "fromNode": "d860cdc16fa96512",
+      "fromSide": "right",
+      "toNode": "3fb50ec767db21eb",
+      "toSide": "left",
+      "label": "approximation of\nPolynomial"
+    },
+    {
+      "id": "58939e3e6f090312",
+      "styleAttributes": {},
+      "fromNode": "d860cdc16fa96512",
+      "fromSide": "left",
+      "toNode": "afc6948ef334b678",
+      "toSide": "right",
+      "label": "Alternate View\ninstead of slope"
+    }
+  ],
+  "metadata": {}
+}

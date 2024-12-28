@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    {
+      "id": "b77e209dbce2e093",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 220,
+      "y": -260,
+      "width": 440,
+      "height": 585,
+      "label": "Chain Rule"
+    },
+    {
+      "id": "b608f1ae27e10570",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215104401.png",
+      "styleAttributes": {},
+      "x": -670,
+      "y": -272,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "04c9af477a799d64",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215104717.png",
+      "styleAttributes": {},
+      "x": -210,
+      "y": -272,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ae121c25d3f0a03b",
+      "type": "text",
+      "text": "Product",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -140,
+      "y": -360,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "318d5cd9954fea25",
+      "type": "text",
+      "text": "Sum",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -600,
+      "y": -360,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "79dde853868bed2f",
+      "type": "file",
+      "file": "Resource/Pictures/Visualizing the chain rule and product rule ｜ Chapter 4, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": 20,
+      "y": -680,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "6f45d963ed4bb67c",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215110958.png",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -240,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "c093e1dc922abba3",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241215111651.png",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 80,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "45f17e1a917c530b",
+      "type": "text",
+      "text": "Composite",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 310,
+      "y": -358,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2acc2a6a01005256",
+      "styleAttributes": {},
+      "fromNode": "6f45d963ed4bb67c",
+      "fromSide": "bottom",
+      "toNode": "c093e1dc922abba3",
+      "toSide": "top"
+    },
+    {
+      "id": "28939013e2591eaa",
+      "styleAttributes": {},
+      "fromNode": "ae121c25d3f0a03b",
+      "fromSide": "bottom",
+      "toNode": "04c9af477a799d64",
+      "toSide": "top"
+    },
+    {
+      "id": "95f1df87127454bf",
+      "styleAttributes": {},
+      "fromNode": "318d5cd9954fea25",
+      "fromSide": "bottom",
+      "toNode": "b608f1ae27e10570",
+      "toSide": "top"
+    },
+    {
+      "id": "ee387364c871b0c8",
+      "styleAttributes": {},
+      "fromNode": "45f17e1a917c530b",
+      "fromSide": "bottom",
+      "toNode": "b77e209dbce2e093",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

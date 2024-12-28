@@ -1,0 +1,386 @@
+{
+  "nodes": [
+    {
+      "id": "483671aa36137157",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 720,
+      "width": 480,
+      "height": 980,
+      "label": "Helping Verb"
+    },
+    {
+      "id": "393818d6e59252b8",
+      "type": "file",
+      "file": "Fleeting/Grammar/Infinitive.md",
+      "styleAttributes": {},
+      "x": -660,
+      "y": -1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6d7d62fc99632ba5",
+      "type": "file",
+      "file": "Fleeting/Grammar/Gerund.md",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c59e0274fdfd5ace",
+      "type": "file",
+      "file": "Fleeting/Grammar/Bare Infinitive.md",
+      "styleAttributes": {},
+      "x": -920,
+      "y": -2320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7b0ebe785ae82e28",
+      "type": "file",
+      "file": "Fleeting/Grammar/To Infinitive.md",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -2360,
+      "width": 400,
+      "height": 440
+    },
+    {
+      "id": "f9154ec1de2c9039",
+      "type": "file",
+      "file": "Fleeting/Grammar/Non-Finite Verb.md",
+      "styleAttributes": {},
+      "x": -230,
+      "y": -1120,
+      "width": 540,
+      "height": 480,
+      "color": "2"
+    },
+    {
+      "id": "2a4e748d7933282e",
+      "type": "file",
+      "file": "Fleeting/Grammar/Main Verb.md",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7aabba712a581175",
+      "type": "file",
+      "file": "Permanent/Verbs.md",
+      "styleAttributes": {
+        "border": null
+      },
+      "isStartNode": true,
+      "x": -160,
+      "y": -500,
+      "width": 400,
+      "height": 320,
+      "color": "6"
+    },
+    {
+      "id": "c53039d99b0dd1a7",
+      "type": "file",
+      "file": "Fleeting/Grammar/Verb Phrase.md",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "86fe030f286c739f",
+      "type": "file",
+      "file": "Fleeting/Grammar/Participle.md",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9239ecae6e6c9fed",
+      "type": "file",
+      "file": "Fleeting/Grammar/Finite Verb.md",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 0,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "ca69ca4a5727d9eb",
+      "type": "file",
+      "file": "Fleeting/Grammar/Causative Verb.md",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2a35cbfd6efdcf6d",
+      "type": "file",
+      "file": "Permanent/Action Verb.md",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 740,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "765d41d30b191010",
+      "type": "file",
+      "file": "Permanent/Linking Verb.md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 740,
+      "width": 400,
+      "height": 420,
+      "color": "1"
+    },
+    {
+      "id": "c7302644bce3aaa7",
+      "type": "file",
+      "file": "Fleeting/Grammar/Modal Verb.md",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 760,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "64ac38cec425722f",
+      "type": "file",
+      "file": "Fleeting/Grammar/Perception Verb.md",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 1160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9ecb9bc5ed7c32a0",
+      "type": "file",
+      "file": "Permanent/Intransitive Verb.md",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": 1400,
+      "width": 400,
+      "height": 480
+    },
+    {
+      "id": "2178f5e1612eecde",
+      "type": "file",
+      "file": "Permanent/Transitive Verb.md",
+      "styleAttributes": {},
+      "x": -900,
+      "y": 1400,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b9a64997639b5e06",
+      "type": "file",
+      "file": "Permanent/Complex Transitive Verb.md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 1400,
+      "width": 400,
+      "height": 680
+    },
+    {
+      "id": "e91600627de08819",
+      "type": "file",
+      "file": "Permanent/Ditransitive Verb.md",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 1400,
+      "width": 400,
+      "height": 440
+    },
+    {
+      "id": "dabb8e8ca5e72d39",
+      "type": "file",
+      "file": "Fleeting/Grammar/Auxiliary Verb.md",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 1260,
+      "width": 400,
+      "height": 380,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "871f641eaf6030a4",
+      "styleAttributes": {},
+      "fromNode": "7aabba712a581175",
+      "fromSide": "top",
+      "toNode": "f9154ec1de2c9039",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "7b54f7209d02c0eb",
+      "styleAttributes": {},
+      "fromNode": "f9154ec1de2c9039",
+      "fromSide": "top",
+      "toNode": "393818d6e59252b8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bbc8e3bc959a1456",
+      "styleAttributes": {},
+      "fromNode": "f9154ec1de2c9039",
+      "fromSide": "top",
+      "toNode": "6d7d62fc99632ba5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e62759fe5b41a040",
+      "styleAttributes": {},
+      "fromNode": "f9154ec1de2c9039",
+      "fromSide": "top",
+      "toNode": "86fe030f286c739f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "89df0d06bdd91ad7",
+      "styleAttributes": {},
+      "fromNode": "2a35cbfd6efdcf6d",
+      "fromSide": "bottom",
+      "toNode": "9ecb9bc5ed7c32a0",
+      "toSide": "top",
+      "color": "1",
+      "label": "without object"
+    },
+    {
+      "id": "99c8597909901e13",
+      "styleAttributes": {},
+      "fromNode": "2a35cbfd6efdcf6d",
+      "fromSide": "bottom",
+      "toNode": "2178f5e1612eecde",
+      "toSide": "top",
+      "color": "1",
+      "label": "with one object"
+    },
+    {
+      "id": "48873648b28c2e61",
+      "styleAttributes": {},
+      "fromNode": "2a35cbfd6efdcf6d",
+      "fromSide": "bottom",
+      "toNode": "e91600627de08819",
+      "toSide": "top",
+      "color": "1",
+      "label": "with two objects"
+    },
+    {
+      "id": "d52d070dac84b166",
+      "styleAttributes": {},
+      "fromNode": "2a35cbfd6efdcf6d",
+      "fromSide": "bottom",
+      "toNode": "b9a64997639b5e06",
+      "toSide": "top",
+      "color": "1",
+      "label": "with one complex object"
+    },
+    {
+      "id": "397b41ab7d09d0bb",
+      "styleAttributes": {},
+      "fromNode": "7aabba712a581175",
+      "fromSide": "bottom",
+      "toNode": "9239ecae6e6c9fed",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "61835b399f3ea7b4",
+      "styleAttributes": {},
+      "fromNode": "9239ecae6e6c9fed",
+      "fromSide": "bottom",
+      "toNode": "2a35cbfd6efdcf6d",
+      "toSide": "top",
+      "color": "1",
+      "label": "has ability to describe"
+    },
+    {
+      "id": "7eb801bd910a5e7b",
+      "styleAttributes": {},
+      "fromNode": "9239ecae6e6c9fed",
+      "fromSide": "bottom",
+      "toNode": "765d41d30b191010",
+      "toSide": "top",
+      "color": "1",
+      "label": "just for connecting complement"
+    },
+    {
+      "id": "a6d13a8ecd58845c",
+      "styleAttributes": {},
+      "fromNode": "9239ecae6e6c9fed",
+      "fromSide": "bottom",
+      "toNode": "483671aa36137157",
+      "toSide": "top",
+      "label": "used to support the main verb"
+    },
+    {
+      "id": "69f6cc79e6a83fd2",
+      "styleAttributes": {},
+      "fromNode": "393818d6e59252b8",
+      "fromSide": "top",
+      "toNode": "c59e0274fdfd5ace",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3b99a403ae27461b",
+      "styleAttributes": {},
+      "fromNode": "393818d6e59252b8",
+      "fromSide": "top",
+      "toNode": "7b0ebe785ae82e28",
+      "toSide": "bottom"
+    },
+    {
+      "id": "020cd51ed59c6e47",
+      "styleAttributes": {},
+      "fromNode": "9239ecae6e6c9fed",
+      "fromSide": "left",
+      "toNode": "2a4e748d7933282e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6c238d2d2d058789",
+      "styleAttributes": {},
+      "fromNode": "393818d6e59252b8",
+      "fromSide": "left",
+      "toNode": "2a4e748d7933282e",
+      "toSide": "top"
+    },
+    {
+      "id": "536767ce6478cfbf",
+      "styleAttributes": {},
+      "fromNode": "2a4e748d7933282e",
+      "fromSide": "left",
+      "toNode": "c53039d99b0dd1a7",
+      "toSide": "top"
+    },
+    {
+      "id": "752ca416044756ce",
+      "styleAttributes": {},
+      "fromNode": "483671aa36137157",
+      "fromSide": "left",
+      "toNode": "c53039d99b0dd1a7",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}
