@@ -1,0 +1,316 @@
+{
+  "workspaces": {
+    "SICP": {
+      "main": {
+        "id": "aaaccdcf26ff902e",
+        "type": "split",
+        "children": [
+          {
+            "id": "bf869d01a781550c",
+            "type": "tabs",
+            "dimension": 39.10482921083628,
+            "children": [
+              {
+                "id": "0d0cdda510aa8863",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resource/PDFs/sicp.pdf",
+                    "page": 281,
+                    "left": 36,
+                    "top": 31,
+                    "zoom": 1.4
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "sicp"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0c90d6f60a1785f7",
+            "type": "tabs",
+            "dimension": 60.89517078916372,
+            "children": [
+              {
+                "id": "e135391c6870b3b5",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Map/Systems with Generic Operations.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Systems with Generic Operations"
+                }
+              },
+              {
+                "id": "f0b9cee89ee6f6d3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Resource/Excalidraw/Drawing 2024-12-31 09.26.49.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2024-12-31 09.26.49.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f942723dacb875f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "22ae52e56e0c958d",
+            "type": "tabs",
+            "dimension": 67.8082191780822,
+            "children": [
+              {
+                "id": "6964c37fee2d6baa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ed9e10541cc9232c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Permanent/Definite Integral.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Definite Integral"
+                }
+              },
+              {
+                "id": "97a87b7388628eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "copilot-chat-view",
+                  "state": {},
+                  "icon": "message-square",
+                  "title": "Copilot"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f5b0fbb5c3e18438",
+            "type": "tabs",
+            "dimension": 32.19178082191781,
+            "children": [
+              {
+                "id": "1e126b763de25d66",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Map/Intuitive Derivative.canvas",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7947214832364474,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Intuitive Derivative"
+                }
+              },
+              {
+                "id": "8bf3cf372075161f",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas-view",
+                  "state": {},
+                  "icon": "chevron-left-square",
+                  "title": "Canvas"
+                }
+              },
+              {
+                "id": "87d051057f5e300d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 263.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "b324ba1e101e0607",
+        "type": "split",
+        "children": [
+          {
+            "id": "08aba7f093d170c1",
+            "type": "tabs",
+            "dimension": 57.786116322701695,
+            "children": [
+              {
+                "id": "d0a74d58781a4008",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "c7540f9cf40088aa",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "5c64c933a2dffedf",
+                "type": "leaf",
+                "state": {
+                  "type": "zotero-annotation-view",
+                  "state": {
+                    "file": "Resource/PDFs/SICP.pdf",
+                    "itemId": 24,
+                    "attachmentId": 2,
+                    "follow": null
+                  },
+                  "icon": "highlighter",
+                  "title": "Zotero Annotations"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "a0b72e0e94e3ba0a",
+            "type": "tabs",
+            "dimension": 42.213883677298305,
+            "children": [
+              {
+                "id": "43ce4010922ff713",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Resource/PDFs/SICP.pdf",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for SICP"
+                }
+              },
+              {
+                "id": "d754e61f90a4e860",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Fleeting/Untitled.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 317,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "zk-prefixer:Create new unique note": false,
+          "omnisearch:Omnisearch": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "file-cleaner-redux:Clean files": false,
+          "callout-manager:Insert Callout": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "remotely-save:Remotely Save": false,
+          "copilot:Open Copilot Chat": false,
+          "latex-ocr:LatexOCR": false
+        }
+      },
+      "active": "e135391c6870b3b5",
+      "mtime": "2024-12-31T09:35:04+08:00"
+    }
+  },
+  "active": "SICP"
+}

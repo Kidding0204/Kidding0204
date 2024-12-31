@@ -26,8 +26,8 @@
   "syncDefaultDisplayTextFormat": false,
   "copyCommands": [
     {
-      "name": "Quote",
-      "template": "> ({{linkWithDisplay}})\n> {{selection}}\n"
+      "name": "Definition",
+      "template": "> [!tldr]+  \n> > {{text}}\n> {{linkWithDisplay}}"
     },
     {
       "name": "Link",
@@ -42,8 +42,8 @@
       "template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> {{text}}\n"
     },
     {
-      "name": "Quote in callout",
-      "template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> > {{text}}\n> \n> "
+      "name": "Cite",
+      "template": "> [!cite]+ \n> > {{text}}\n> {{linkWithDisplay}}\n> "
     }
   ],
   "useAnotherCopyTemplateWhenNoSelection": false,
@@ -71,7 +71,7 @@
   "persistentTextHighlightsInEmbed": true,
   "persistentAnnotationHighlightsInEmbed": false,
   "highlightBacklinks": true,
-  "selectionBacklinkVisualizeStyle": "highlight",
+  "selectionBacklinkVisualizeStyle": "underline",
   "dblclickEmbedToOpenLink": true,
   "highlightBacklinksPane": true,
   "highlightOnHoverBacklinkPane": true,
@@ -111,7 +111,7 @@
   "alwaysRecordHistory": true,
   "renderMarkdownInStickyNote": false,
   "enablePDFEdit": false,
-  "author": "",
+  "author": "ASAKA",
   "writeHighlightToFileOpacity": 0.2,
   "defaultWriteFileToggle": false,
   "syncWriteFileToggle": true,
@@ -222,7 +222,7 @@
   "respectCursorPositionWhenAutoPaste": true,
   "autoCopy": true,
   "autoFocus": false,
-  "autoPaste": true,
+  "autoPaste": false,
   "autoFocusTarget": "last-active-and-open-then-last-paste",
   "autoPasteTarget": "last-active-and-open-then-last-paste",
   "openAutoFocusTargetIfNotOpened": true,
@@ -264,7 +264,7 @@
   "newPDFFolderPath": "",
   "rectEmbedStaticImage": false,
   "rectImageFormat": "file",
-  "rectImageExtension": "webp",
+  "rectImageExtension": "png",
   "zoomToFitRect": false,
   "rectEmbedResolution": 100,
   "includeColorWhenCopyingRectLink": true,
@@ -281,7 +281,7 @@
   "searchLinkEntireWord": "false",
   "dontFitWidthWhenOpenPDFLink": true,
   "preserveCurrentLeftOffsetWhenOpenPDFLink": false,
-  "defaultZoomValue": "page-fit",
+  "defaultZoomValue": "140",
   "scrollModeOnLoad": 0,
   "spreadModeOnLoad": 0,
   "hoverableDropdownMenuInToolbar": true,

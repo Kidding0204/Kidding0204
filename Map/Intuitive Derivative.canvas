@@ -31,46 +31,6 @@
       "label": "Derivative in pure math"
     },
     {
-      "id": "cdd9e4b8448b8a95",
-      "type": "file",
-      "file": "Resource/Pictures/IMG-20241214201422023.png",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 140,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "ba7085ffca2320c6",
-      "type": "file",
-      "file": "Resource/Pictures/IMG-20241214201700516.png",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": -160,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "97932125d28a8cbe",
-      "type": "file",
-      "file": "Resource/Pictures/IMG-20241214183944412.png",
-      "styleAttributes": {},
-      "x": -560,
-      "y": -580,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "de7c195f13726bc6",
-      "type": "file",
-      "file": "Resource/Pictures/IMG-20241214195032934.png",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 700,
-      "width": 400,
-      "height": 225
-    },
-    {
       "id": "a641c19474ccc14f",
       "type": "file",
       "file": "Resource/Pictures/IMG-20241214192241540.png",
@@ -81,22 +41,22 @@
       "height": 225
     },
     {
-      "id": "15f95f4c6a2ea554",
+      "id": "739b9984b1349ed3",
       "type": "file",
-      "file": "Resource/Pictures/IMG-20241214192225702.png",
+      "file": "Resource/Pictures/IMG-20241214190145910.png",
       "styleAttributes": {},
-      "x": -1060,
-      "y": 700,
+      "x": -520,
+      "y": 540,
       "width": 400,
       "height": 225
     },
     {
-      "id": "5e36be0dad2c5487",
+      "id": "97932125d28a8cbe",
       "type": "file",
-      "file": "Resource/Pictures/The paradox of the derivative ｜ Chapter 2, Essence of calculus.webm",
+      "file": "Resource/Pictures/IMG-20241214183944412.png",
       "styleAttributes": {},
-      "x": -1600,
-      "y": -805,
+      "x": -560,
+      "y": -580,
       "width": 400,
       "height": 225
     },
@@ -131,22 +91,62 @@
       "height": 225
     },
     {
-      "id": "739b9984b1349ed3",
-      "type": "file",
-      "file": "Resource/Pictures/IMG-20241214190145910.png",
-      "styleAttributes": {},
-      "x": -520,
-      "y": 540,
-      "width": 400,
-      "height": 225
-    },
-    {
       "id": "1bea1c9852bb3218",
       "type": "file",
       "file": "Resource/Pictures/IMG-20241214185536033.png",
       "styleAttributes": {},
       "x": 60,
       "y": 160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "cdd9e4b8448b8a95",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214201422023.png",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 140,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ba7085ffca2320c6",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214201700516.png",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": -160,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "5e36be0dad2c5487",
+      "type": "file",
+      "file": "Resource/Pictures/The paradox of the derivative ｜ Chapter 2, Essence of calculus.webm",
+      "styleAttributes": {},
+      "x": -1600,
+      "y": -805,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "de7c195f13726bc6",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214195032934.png",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 700,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "15f95f4c6a2ea554",
+      "type": "file",
+      "file": "Resource/Pictures/IMG-20241214192225702.png",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": 700,
       "width": 400,
       "height": 225
     },

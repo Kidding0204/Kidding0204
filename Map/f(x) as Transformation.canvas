@@ -54,52 +54,12 @@
       "height": 225
     },
     {
-      "id": "0668e02ed38c4026",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219185849.png",
-      "styleAttributes": {},
-      "x": 60,
-      "y": -460,
-      "width": 400,
-      "height": 225
-    },
-    {
       "id": "5d8e161914127f86",
       "type": "file",
       "file": "Resource/Pictures/Pasted image 20241219190357.png",
       "styleAttributes": {},
       "x": -640,
       "y": -60,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "f21297dbd7f411d3",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219190136.png",
-      "styleAttributes": {},
-      "x": -200,
-      "y": -60,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "ba2f4b96c93850e9",
-      "type": "text",
-      "text": "*Derivative* is about how **sensitive** the function is to ==tiny little nudges== around the input.\nAnd the *slope* is just **one way** to think about the sensitivity relevant only to this ==particular way of viewing functions==.",
-      "styleAttributes": {},
-      "x": -210,
-      "y": -846,
-      "width": 400,
-      "height": 200
-    },
-    {
-      "id": "577fc56c7ef9168a",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219182932.png",
-      "styleAttributes": {},
-      "x": -210,
-      "y": -1086,
       "width": 400,
       "height": 225
     },
@@ -112,16 +72,6 @@
       "y": -1107,
       "width": 880,
       "height": 495
-    },
-    {
-      "id": "2da9988d88e5ffc7",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219190051.png",
-      "styleAttributes": {},
-      "x": 240,
-      "y": -60,
-      "width": 400,
-      "height": 225
     },
     {
       "id": "de4f8e1211c6eed2",
@@ -154,6 +104,26 @@
       "height": 225
     },
     {
+      "id": "17d82bb21f1a6ed5",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219185502.png",
+      "styleAttributes": {},
+      "x": 610,
+      "y": 741,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "feb1c4180b1da588",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190520.png",
+      "styleAttributes": {},
+      "x": 70,
+      "y": 880,
+      "width": 400,
+      "height": 225
+    },
+    {
       "id": "cb579368f3ee522f",
       "type": "file",
       "file": "Resource/Pictures/Pasted image 20241219190449.png",
@@ -174,22 +144,52 @@
       "height": 225
     },
     {
-      "id": "17d82bb21f1a6ed5",
+      "id": "0668e02ed38c4026",
       "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219185502.png",
+      "file": "Resource/Pictures/Pasted image 20241219185849.png",
       "styleAttributes": {},
-      "x": 610,
-      "y": 741,
+      "x": 60,
+      "y": -460,
       "width": 400,
       "height": 225
     },
     {
-      "id": "feb1c4180b1da588",
+      "id": "2da9988d88e5ffc7",
       "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219190520.png",
+      "file": "Resource/Pictures/Pasted image 20241219190051.png",
       "styleAttributes": {},
-      "x": 70,
-      "y": 880,
+      "x": 240,
+      "y": -60,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "ba2f4b96c93850e9",
+      "type": "text",
+      "text": "*Derivative* is about how **sensitive** the function is to ==tiny little nudges== around the input.\nAnd the *slope* is just **one way** to think about the sensitivity relevant only to this ==particular way of viewing functions==.",
+      "styleAttributes": {},
+      "x": -210,
+      "y": -846,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "577fc56c7ef9168a",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219182932.png",
+      "styleAttributes": {},
+      "x": -210,
+      "y": -1086,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "f21297dbd7f411d3",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219190136.png",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -60,
       "width": 400,
       "height": 225
     }

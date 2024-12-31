@@ -12,8 +12,8 @@ tags:
 ![[IMG-20241203111406690.png]]
 
 > [!info]- Graphic Proof
->  ![[IMG-20241203111406995.png]]
+>  ![[Pasted image 20241219103444.png]]
 > > [!exp]- Derived by [[FTC-1]]
-> > ![[IMG-20241203111407605.png]]
+> > ![[Pasted image 20241219111702.png]]
 
 

@@ -1,16 +1,6 @@
 {
   "nodes": [
     {
-      "id": "2168a6dcb5beb829",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2460,
-      "y": -600,
-      "width": 1480,
-      "height": 1130,
-      "label": "Graph view of Integral"
-    },
-    {
       "id": "ec18bfbae82875e8",
       "type": "group",
       "styleAttributes": {},
@@ -25,10 +15,10 @@
       "type": "file",
       "file": "Permanent/Riemann Sum.md",
       "styleAttributes": {},
-      "x": -440,
-      "y": -860,
+      "x": -400,
+      "y": -960,
       "width": 400,
-      "height": 400
+      "height": 360
     },
     {
       "id": "d0962285042d79b2",
@@ -36,131 +26,49 @@
       "file": "Permanent/MVC.md",
       "styleAttributes": {},
       "x": 160,
-      "y": -960,
+      "y": -740,
       "width": 400,
-      "height": 400
-    },
-    {
-      "id": "cc062ce98eb905b9",
-      "type": "file",
-      "file": "Permanent/FTC-1.md",
-      "styleAttributes": {},
-      "x": 160,
-      "y": -400,
-      "width": 400,
-      "height": 440
-    },
-    {
-      "id": "6a1dcd0f6972bd1b",
-      "type": "file",
-      "file": "Permanent/Definite Integral.md",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -299,
-      "width": 400,
-      "height": 800
-    },
-    {
-      "id": "e917f7c511a2c29b",
-      "type": "file",
-      "file": "Permanent/FTC-2.md",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 200,
-      "width": 400,
-      "height": 380
+      "height": 60
     },
     {
       "id": "2d11c0adf201efac",
       "type": "file",
       "file": "Permanent/Derivative.md",
       "styleAttributes": {},
-      "x": -880,
-      "y": -1060,
+      "x": -900,
+      "y": -960,
       "width": 400,
-      "height": 600
+      "height": 60
     },
     {
-      "id": "5e7dc57476dbd9e9",
+      "id": "4dc3abbf760c881c",
       "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219111702.png",
+      "file": "Permanent/Numerical Approximation.md",
       "styleAttributes": {},
-      "x": 680,
-      "y": -292,
+      "x": -400,
+      "y": -1430,
       "width": 400,
-      "height": 225
+      "height": 100
     },
     {
       "id": "4c0ebbbcbafc9417",
       "type": "file",
       "file": "Permanent/Indefinite Integral.md",
       "styleAttributes": {},
-      "x": 880,
-      "y": 80,
+      "x": 700,
+      "y": 240,
       "width": 400,
-      "height": 400
+      "height": 300
     },
     {
-      "id": "232e4233e56de085",
+      "id": "6a1dcd0f6972bd1b",
       "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219103444.png",
+      "file": "Permanent/Definite Integral.md",
       "styleAttributes": {},
-      "x": 880,
-      "y": 580,
+      "x": -600,
+      "y": -299,
       "width": 400,
-      "height": 225
-    },
-    {
-      "id": "d5ba00102d7176da",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219101131.png",
-      "styleAttributes": {},
-      "x": -1440,
-      "y": -309,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "0aedfb1df868d3f2",
-      "type": "text",
-      "text": "### Why do we not use **$\\Sigma$** sum notation?\nBecause it's not an *accumulation* for a ==specific== *interval*, instead for ==any== *interval* that **tend to be zero** which indicated by the *integral notation*. ",
-      "styleAttributes": {},
-      "x": -1480,
-      "y": -587,
-      "width": 480,
-      "height": 160,
-      "color": "5"
-    },
-    {
-      "id": "6d4dcdcd0e25deec",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219111731.png",
-      "styleAttributes": {},
-      "x": -1440,
-      "y": 278,
-      "width": 400,
-      "height": 225,
-      "color": "4"
-    },
-    {
-      "id": "f63ef44aa41f94ad",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219101332.png",
-      "styleAttributes": {},
-      "x": -1440,
-      "y": -2,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "e7de2f2c7506f3d9",
-      "type": "file",
-      "file": "Resource/Pictures/Pasted image 20241219133216.png",
-      "styleAttributes": {},
-      "x": -1620,
-      "y": 840,
-      "width": 400,
-      "height": 225
+      "height": 960
     },
     {
       "id": "aecd4041439ed160",
@@ -173,14 +81,34 @@
       "height": 225
     },
     {
-      "id": "9c80c4e6f784aa0f",
+      "id": "e917f7c511a2c29b",
       "type": "file",
-      "file": "Resource/Pictures/Integration and the fundamental theorem of calculus ｜ Chapter 8, Essence of calculus.webm",
+      "file": "Permanent/FTC-2.md",
       "styleAttributes": {},
-      "x": -2440,
-      "y": -280,
-      "width": 818,
-      "height": 460
+      "x": 160,
+      "y": 200,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "cc062ce98eb905b9",
+      "type": "file",
+      "file": "Permanent/FTC-1.md",
+      "styleAttributes": {},
+      "x": 160,
+      "y": -400,
+      "width": 400,
+      "height": 440
+    },
+    {
+      "id": "e7de2f2c7506f3d9",
+      "type": "file",
+      "file": "Resource/Pictures/Pasted image 20241219133216.png",
+      "styleAttributes": {},
+      "x": -1620,
+      "y": 840,
+      "width": 400,
+      "height": 225
     },
     {
       "id": "8e6b80b6b23b06cc",
@@ -201,16 +129,6 @@
       "y": 1220,
       "width": 360,
       "height": 200
-    },
-    {
-      "id": "4dc3abbf760c881c",
-      "type": "file",
-      "file": "Permanent/Numerical Approximation.md",
-      "styleAttributes": {},
-      "x": -440,
-      "y": -1440,
-      "width": 400,
-      "height": 400
     }
   ],
   "edges": [
@@ -263,62 +181,6 @@
       "toSide": "left"
     },
     {
-      "id": "9d9f76a0bcdb2216",
-      "styleAttributes": {},
-      "fromNode": "d0962285042d79b2",
-      "fromSide": "bottom",
-      "toNode": "cc062ce98eb905b9",
-      "toSide": "top"
-    },
-    {
-      "id": "156d128ee7367835",
-      "styleAttributes": {},
-      "fromNode": "d5ba00102d7176da",
-      "fromSide": "bottom",
-      "toNode": "f63ef44aa41f94ad",
-      "toSide": "top"
-    },
-    {
-      "id": "4a7339901414268c",
-      "styleAttributes": {},
-      "fromNode": "0aedfb1df868d3f2",
-      "fromSide": "bottom",
-      "toNode": "d5ba00102d7176da",
-      "toSide": "top"
-    },
-    {
-      "id": "7ca61023c9f06e56",
-      "styleAttributes": {},
-      "fromNode": "cc062ce98eb905b9",
-      "fromSide": "right",
-      "toNode": "5e7dc57476dbd9e9",
-      "toSide": "left"
-    },
-    {
-      "id": "f56f9f504d3eefe2",
-      "styleAttributes": {},
-      "fromNode": "e917f7c511a2c29b",
-      "fromSide": "right",
-      "toNode": "232e4233e56de085",
-      "toSide": "left"
-    },
-    {
-      "id": "8183cabc782bc795",
-      "styleAttributes": {},
-      "fromNode": "f63ef44aa41f94ad",
-      "fromSide": "right",
-      "toNode": "6a1dcd0f6972bd1b",
-      "toSide": "left"
-    },
-    {
-      "id": "c167cb0c57a75702",
-      "styleAttributes": {},
-      "fromNode": "6d4dcdcd0e25deec",
-      "fromSide": "top",
-      "toNode": "f63ef44aa41f94ad",
-      "toSide": "bottom"
-    },
-    {
       "id": "9fdc79fd09789813",
       "styleAttributes": {},
       "fromNode": "aecd4041439ed160",
@@ -336,11 +198,11 @@
       "toEnd": "none"
     },
     {
-      "id": "f4f0aedd8a91720f",
+      "id": "9d9f76a0bcdb2216",
       "styleAttributes": {},
-      "fromNode": "2168a6dcb5beb829",
+      "fromNode": "d0962285042d79b2",
       "fromSide": "bottom",
-      "toNode": "ec18bfbae82875e8",
+      "toNode": "cc062ce98eb905b9",
       "toSide": "top"
     }
   ],

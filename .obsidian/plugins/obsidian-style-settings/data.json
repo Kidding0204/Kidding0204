@@ -45,5 +45,6 @@
   "primary-theme@@bold-color@@light": "#BE6069",
   "primary-theme@@colorful-folders_inherit-color": false,
   "primary-theme@@link-color@@light": "#339562",
-  "primary-theme@@link-external-color@@light": "#A3BE8C"
+  "primary-theme@@link-external-color@@light": "#A3BE8C",
+  "primary-theme@@bold-italic-color@@light": "#22729B"
 }

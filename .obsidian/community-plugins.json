@@ -7,7 +7,6 @@
   "tag-wrangler",
   "obsidian-linter",
   "obsidian-excalidraw-plugin",
-  "obsidian-vimrc-support",
   "file-cleaner-redux",
   "canvas-links",
   "obsidian-style-settings",
@@ -18,7 +17,9 @@
   "remotely-save",
   "pdf-plus",
   "zotlit",
-  "easy-typing-obsidian",
   "image-converter",
-  "copilot"
+  "copilot",
+  "quickadd",
+  "latex-ocr",
+  "obsidian-vimrc-support"
 ]

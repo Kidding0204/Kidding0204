@@ -1,0 +1,588 @@
+{
+  "nodes": [
+    {
+      "id": "47fd77ad1539da7d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 480,
+      "width": 1520,
+      "height": 1240,
+      "color": "1",
+      "label": "Packages"
+    },
+    {
+      "id": "49e7c5413794ed08",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 1780,
+      "width": 1980,
+      "height": 900,
+      "color": "1",
+      "label": "Coercion"
+    },
+    {
+      "id": "fbe1137a5222c063",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": 1790,
+      "width": 980,
+      "height": 860,
+      "color": "5",
+      "label": "Example"
+    },
+    {
+      "id": "5ac11fc8b79891de",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -900,
+      "y": 1780,
+      "width": 1040,
+      "height": 800,
+      "color": "1",
+      "label": "Exhaustive Method"
+    },
+    {
+      "id": "5dab88f8eed8621b",
+      "type": "group",
+      "x": 140,
+      "y": 2960,
+      "width": 440,
+      "height": 1090,
+      "color": "3",
+      "label": "Advantages"
+    },
+    {
+      "id": "e7f16c887eeacde2",
+      "type": "text",
+      "text": "![[sicp.pdf#page=295&rect=140,373,279,511|sicp, p.267]]",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 3040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a8ee504533af13be",
+      "type": "text",
+      "text": "> [!cite]+ \n> > Even when neither of the objects to be combined can be converted to the type of the other it may still be possible to ==perform the operation by converting both objects to a **third type**.==\n> [[sicp.pdf#page=294&selection=7,35,10,5|sicp, p.266]]\n> ",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 2260,
+      "width": 400,
+      "height": 320,
+      "color": "3"
+    },
+    {
+      "id": "d745457c8e2015d0",
+      "type": "text",
+      "text": "> [!cite]+ \n> >  we need to write **only one procedure** for each pair of types rather than a different procedure for each collection of types and each generic operation.\n> [[sicp.pdf#page=293&selection=117,7,118,71|sicp, p.265]]\n> ",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 2260,
+      "width": 400,
+      "height": 300,
+      "color": "3"
+    },
+    {
+      "id": "2b3d025d9eac3c2a",
+      "type": "text",
+      "text": "> [!tldr]+ tower\n> >  The particular hierarchy we have here is of a very simple kind, in which ==each type has at most **one** *supertype* and at most **one** *subtype*.== Such a structure, called a ***tower***\n> [[sicp.pdf#page=295&selection=13,12,17,5|sicp, p.267]]",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": 3080,
+      "width": 400,
+      "height": 320
+    },
+    {
+      "id": "ceca505d380c7274",
+      "type": "text",
+      "text": "![[sicp.pdf#page=293&rect=51,156,368,409|sicp, p.265]]",
+      "styleAttributes": {},
+      "x": 1740,
+      "y": 2040,
+      "width": 400,
+      "height": 340,
+      "color": "1"
+    },
+    {
+      "id": "f465cf60a96b217e",
+      "type": "text",
+      "text": "> [!cite]+ \n> > Often the different data types are not completely independent, and there may be ways by which objects of ==one type may be viewed as being of another type==. This process is called ***coercion***.\n> [[sicp.pdf#page=291&selection=22,49,28,1|sicp, p.263]]\n> \n",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 1840,
+      "width": 400,
+      "height": 320
+    },
+    {
+      "id": "d17e58e91e7183dc",
+      "type": "text",
+      "text": "> [!cite]+ \n> >  For example, if we are asked to arithmetically **combine** an *ordinary number* with a *complex number*, we can view the ==ordinary number as a complex number whose imaginary part is zero.== \n> [[sicp.pdf#page=291&selection=28,1,32,68|sicp, p.263]]\n> \n![[sicp.pdf#page=292&rect=50,395,287,422|sicp, p.264]]",
+      "styleAttributes": {},
+      "x": 1220,
+      "y": 1810,
+      "width": 400,
+      "height": 380,
+      "color": "5"
+    },
+    {
+      "id": "d6daa7e6f353e935",
+      "type": "text",
+      "text": "> [!cite]+ Add extra **mind burden** to independent implementors\n> > The method also undermines our ability to combine separate packages additively, or at least to limit the extent to which the implementors of the individual packages need to take account of other packages. \n> [[sicp.pdf#page=291&selection=3,18,6,10|sicp, p.263]]\n> ",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1800,
+      "width": 400,
+      "height": 380,
+      "color": "3"
+    },
+    {
+      "id": "3fb63a9bb1ffb96e",
+      "type": "text",
+      "text": "> [!cite]+ Ambiguous assignment of **responsibility**\n> >  Formulating coherent policies on the division of responsibility among packages can be an overwhelming task in designing systems with many packages and many cross-type operations.\n> [[sicp.pdf#page=291&selection=11,55,14,27|sicp, p.263]]\n> ",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2220,
+      "width": 400,
+      "height": 340,
+      "color": "3"
+    },
+    {
+      "id": "7f5df7f1d958c9f8",
+      "type": "text",
+      "text": "> [!cite]+ \n> > One way to handle cross-type operations is to design a different procedure for each possible combination of types for which the operation is valid\n> [[sicp.pdf#page=290&selection=17,0,19,8|sicp, p.262]]\n\n![[sicp.pdf#page=290&rect=50,138,339,204|sicp, p.262]]",
+      "styleAttributes": {},
+      "x": -880,
+      "y": 2160,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "71f82a1ddf5a40bd",
+      "type": "text",
+      "text": "> [!cite]+ Cumbersome\n> > We also have to supply an almost identical procedure to handle the types `(scheme-number complex)`\n> [[sicp.pdf#page=290&selection=55,0,61,0|sicp, p.262]]\n> ",
+      "styleAttributes": {},
+      "x": -780,
+      "y": 1800,
+      "width": 400,
+      "height": 240,
+      "color": "3"
+    },
+    {
+      "id": "471e3de6819442ae",
+      "type": "text",
+      "text": "> [!cite]+ \n> > The outer tag (*complex*) is used to direct the number to the **complex package**. Once within the complex package, the next tag (*rectangular*) is used to direct the number to the **rectangular package**.\n> [[sicp.pdf#page=287&selection=78,16,84,58|sicp, p.259]]\n> \n> As a data object is passed “downward,” the *outer tag* that is used to direct it to the appropriate package is ==stripped off== (by applying `contents`) and the *next level of tag* (if any) becomes ==visible== to be used for further dispatching.",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 1160,
+      "width": 400,
+      "height": 540
+    },
+    {
+      "id": "13c22e51eecc2fdd",
+      "type": "text",
+      "text": "![[sicp.pdf#page=286&rect=52,70,350,342|sicp, p.258]]![[sicp.pdf#page=287&rect=59,334,318,499|sicp, p.259]]",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 1000,
+      "width": 400,
+      "height": 600,
+      "color": "1"
+    },
+    {
+      "id": "034ccbeb0e1e3fe1",
+      "type": "text",
+      "text": "![[sicp.pdf#page=288&rect=74,416,342,504|sicp, p.260]]",
+      "styleAttributes": {},
+      "x": 1320,
+      "y": 1490,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "7f432295d8cb1626",
+      "type": "text",
+      "text": "> [!cite]+ \n> > What we have not yet considered is the fact that it is meaningful ==to define operations that **cross the type boundaries**==, such as the addition of a complex number to an ordinary number. \n> [[sicp.pdf#page=290&selection=10,6,12,40|sicp, p.262]]\n> ",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 1240,
+      "width": 400,
+      "height": 320,
+      "color": "2"
+    },
+    {
+      "id": "1836d95e0e47c3e5",
+      "type": "text",
+      "text": "> [!cite]+ \n> > We would like to **introduce the *cross-type operations*** in some carefully controlled way, so that we can ==support them without seriously violating our module boundaries==.\n> [[sicp.pdf#page=290&selection=14,37,16,63|sicp, p.262]]\n> ",
+      "styleAttributes": {},
+      "x": -20,
+      "y": 1240,
+      "width": 400,
+      "height": 320,
+      "color": "2"
+    },
+    {
+      "id": "de9923fa6e3ac19c",
+      "type": "text",
+      "text": "![[sicp.pdf#page=287&rect=52,202,267,251|sicp, p.259]]",
+      "styleAttributes": {},
+      "x": 1320,
+      "y": 1340,
+      "width": 400,
+      "height": 100
+    },
+    {
+      "id": "6d8e1840663755f3",
+      "type": "text",
+      "text": "![[sicp.pdf#page=285&rect=49,71,264,465|sicp, p.257]]![[sicp.pdf#page=286&rect=50,431,271,501|sicp, p.258]]",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": 500,
+      "width": 400,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "4e4fac9513eb7749",
+      "type": "text",
+      "text": "![[sicp.pdf#page=283&rect=43,296,379,517|sicp, p.255]]",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 760,
+      "width": 400,
+      "height": 280
+    },
+    {
+      "id": "52ad1de5614bf66e",
+      "type": "text",
+      "text": "![[sicp.pdf#page=284&rect=50,197,309,351|sicp, p.256]]",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 560,
+      "width": 400,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "3704b24300dbe415",
+      "type": "text",
+      "text": "> [!cite]+ key idea\n> > The ***key idea*** is to ==link== the code that specifies the *data operations* to the *several representations* by means of **generic interface procedures**\n> [[sicp.pdf#page=282&selection=5,49,7,48|sicp, p.254]]\n> ",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 20,
+      "width": 400,
+      "height": 300,
+      "color": "4"
+    },
+    {
+      "id": "f88240015ed06dcc",
+      "type": "text",
+      "text": "> [!cite]+ \n> >  to **define operations** that are generic over ==different kinds of *arguments*==.\n> [[sicp.pdf#page=282&selection=9,33,10,33|sicp, p.254]]\n> ",
+      "styleAttributes": {},
+      "isStartNode": true,
+      "x": 200,
+      "y": 50,
+      "width": 400,
+      "height": 240,
+      "color": "6"
+    },
+    {
+      "id": "b35df8d7462f9d3b",
+      "type": "text",
+      "text": "\n### Generic arithmetic procedures\n```scheme\n(define (add x y) (apply-generic 'add x y))\n(define (sub x y) (apply-generic 'sub x y))\n(define (mul x y) (apply-generic 'mul x y))\n(define (div x y) (apply-generic 'div x y))\n```",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 220,
+      "width": 480,
+      "height": 200
+    },
+    {
+      "id": "21967d4556cdff9c",
+      "type": "text",
+      "text": "> [!cite]+ \n> >  We will now use *data-directed techniques* to **construct a package** of arithmetic operations that ==incorporates all the arithmetic packages== we have already constructed.\n> [[sicp.pdf#page=282&selection=34,48,36,69|sicp, p.254]]\n> ",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 360,
+      "width": 400,
+      "height": 320,
+      "color": "2"
+    },
+    {
+      "id": "ff9ec196aa6965a1",
+      "type": "text",
+      "text": "> [!cite]+ \n> > Another **advantage** of a *tower* is that we can easily implement the notion that every type ==“**inherits**” all operations defined on a supertype==.\n> [[sicp.pdf#page=296&selection=5,0,6,71|sicp, p.268]]\n> ",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 3400,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "c94048e4e7402a31",
+      "type": "text",
+      "text": "> [!cite]+ \n> > Yet another **advantage** of a tower over a more general hierarchy is that it gives us a simple way ==to “**lower**” a data object to the simplest representation.==\n> [[sicp.pdf#page=296&selection=23,0,25,15|sicp, p.268]]\n> ",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 3730,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "9abc0008912e9490",
+      "type": "text",
+      "text": "> [!cite]+ \n> > If we have a *tower* structure, then we can greatly simplify the problem of **adding a new type** to the hierarchy, for ==we need only specify how the new type is embedded in the next supertype above it and how it is the supertype of the type below it==.\n> [[sicp.pdf#page=295&selection=20,0,23,40|sicp, p.267]]\n> ",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 2980,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "dbc50b4187b4cf9b",
+      "type": "text",
+      "text": "> [!cite]+ \n> > We can redesign our `apply-generic` procedure in the following way: For each type, we need to supply a `raise` procedure, which ==“raises” objects of that type one level in the tower.==\n> [[sicp.pdf#page=295&selection=34,0,43,25|sicp, p.267]]\n> ",
+      "styleAttributes": {},
+      "x": -360,
+      "y": 3010,
+      "width": 400,
+      "height": 320,
+      "color": "5"
+    },
+    {
+      "id": "bf010eb9caeeae25",
+      "type": "text",
+      "text": "![[sicp.pdf#page=297&rect=66,287,361,518|sicp, p.269]]",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 3600,
+      "width": 400,
+      "height": 320
+    },
+    {
+      "id": "119537d888606de3",
+      "type": "text",
+      "text": "> [!cite]+ \n> > We install these coercion procedures **in a special coercion table**, indexed under the names of the two types:\n> [[sicp.pdf#page=292&selection=14,0,15,33|sicp, p.264]]\n>\n![[sicp.pdf#page=292&rect=49,315,236,359|sicp, p.264]]",
+      "styleAttributes": {},
+      "x": 1220,
+      "y": 2260,
+      "width": 400,
+      "height": 360
+    }
+  ],
+  "edges": [
+    {
+      "id": "f83dcbcea3cb9091",
+      "styleAttributes": {},
+      "fromNode": "3704b24300dbe415",
+      "fromSide": "right",
+      "toNode": "f88240015ed06dcc",
+      "toSide": "left"
+    },
+    {
+      "id": "f8378a1b7f93f253",
+      "styleAttributes": {},
+      "fromNode": "f88240015ed06dcc",
+      "fromSide": "bottom",
+      "toNode": "21967d4556cdff9c",
+      "toSide": "top"
+    },
+    {
+      "id": "d7d6b397c74ea8d6",
+      "styleAttributes": {},
+      "fromNode": "21967d4556cdff9c",
+      "fromSide": "bottom",
+      "toNode": "4e4fac9513eb7749",
+      "toSide": "top"
+    },
+    {
+      "id": "5c63ddd73892e658",
+      "styleAttributes": {},
+      "fromNode": "4e4fac9513eb7749",
+      "fromSide": "right",
+      "toNode": "b35df8d7462f9d3b",
+      "toSide": "left"
+    },
+    {
+      "id": "b41419a4aa653c89",
+      "styleAttributes": {},
+      "fromNode": "4e4fac9513eb7749",
+      "fromSide": "right",
+      "toNode": "47fd77ad1539da7d",
+      "toSide": "left"
+    },
+    {
+      "id": "b630f7f8c9eb01b3",
+      "styleAttributes": {},
+      "fromNode": "034ccbeb0e1e3fe1",
+      "fromSide": "right",
+      "toNode": "471e3de6819442ae",
+      "toSide": "left"
+    },
+    {
+      "id": "1ca507cd6062f30c",
+      "styleAttributes": {},
+      "fromNode": "de9923fa6e3ac19c",
+      "fromSide": "bottom",
+      "toNode": "034ccbeb0e1e3fe1",
+      "toSide": "top"
+    },
+    {
+      "id": "d3cb2def70df2315",
+      "styleAttributes": {},
+      "fromNode": "13c22e51eecc2fdd",
+      "fromSide": "right",
+      "toNode": "de9923fa6e3ac19c",
+      "toSide": "left"
+    },
+    {
+      "id": "cc508fee2f9f73db",
+      "styleAttributes": {},
+      "fromNode": "4e4fac9513eb7749",
+      "fromSide": "bottom",
+      "toNode": "7f432295d8cb1626",
+      "toSide": "top"
+    },
+    {
+      "id": "935c7cbe5cd2dc5d",
+      "styleAttributes": {},
+      "fromNode": "7f5df7f1d958c9f8",
+      "fromSide": "right",
+      "toNode": "d6daa7e6f353e935",
+      "toSide": "left"
+    },
+    {
+      "id": "7613e011677725ba",
+      "styleAttributes": {},
+      "fromNode": "7f5df7f1d958c9f8",
+      "fromSide": "right",
+      "toNode": "3fb63a9bb1ffb96e",
+      "toSide": "left"
+    },
+    {
+      "id": "20ca1c22a5bc982e",
+      "styleAttributes": {},
+      "fromNode": "7f5df7f1d958c9f8",
+      "fromSide": "right",
+      "toNode": "71f82a1ddf5a40bd",
+      "toSide": "left"
+    },
+    {
+      "id": "1f72bdbf7b4735d1",
+      "styleAttributes": {},
+      "fromNode": "1836d95e0e47c3e5",
+      "fromSide": "bottom",
+      "toNode": "5ac11fc8b79891de",
+      "toSide": "top"
+    },
+    {
+      "id": "f26f2ce38fe410a4",
+      "styleAttributes": {},
+      "fromNode": "7f432295d8cb1626",
+      "fromSide": "right",
+      "toNode": "1836d95e0e47c3e5",
+      "toSide": "left"
+    },
+    {
+      "id": "71af0a74f473f189",
+      "styleAttributes": {},
+      "fromNode": "d17e58e91e7183dc",
+      "fromSide": "bottom",
+      "toNode": "119537d888606de3",
+      "toSide": "top",
+      "label": "install"
+    },
+    {
+      "id": "9a6fb3b4e6ab2571",
+      "styleAttributes": {},
+      "fromNode": "f465cf60a96b217e",
+      "fromSide": "right",
+      "toNode": "fbe1137a5222c063",
+      "toSide": "left"
+    },
+    {
+      "id": "ab60b974a96f3495",
+      "styleAttributes": {},
+      "fromNode": "d17e58e91e7183dc",
+      "fromSide": "right",
+      "toNode": "ceca505d380c7274",
+      "toSide": "left"
+    },
+    {
+      "id": "5902885787f8c2fc",
+      "styleAttributes": {},
+      "fromNode": "119537d888606de3",
+      "fromSide": "right",
+      "toNode": "ceca505d380c7274",
+      "toSide": "left"
+    },
+    {
+      "id": "4b60d15a60a1ba14",
+      "styleAttributes": {},
+      "fromNode": "d745457c8e2015d0",
+      "fromSide": "top",
+      "toNode": "f465cf60a96b217e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fbed9b06b36e271d",
+      "styleAttributes": {},
+      "fromNode": "1836d95e0e47c3e5",
+      "fromSide": "bottom",
+      "toNode": "49e7c5413794ed08",
+      "toSide": "top"
+    },
+    {
+      "id": "a16377cc833ef929",
+      "styleAttributes": {},
+      "fromNode": "a8ee504533af13be",
+      "fromSide": "top",
+      "toNode": "f465cf60a96b217e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "598b22f8900b86a3",
+      "styleAttributes": {},
+      "fromNode": "49e7c5413794ed08",
+      "fromSide": "bottom",
+      "toNode": "e7f16c887eeacde2",
+      "toSide": "top"
+    },
+    {
+      "id": "408de47e7ae3fc83",
+      "styleAttributes": {},
+      "fromNode": "2b3d025d9eac3c2a",
+      "fromSide": "left",
+      "toNode": "e7f16c887eeacde2",
+      "toSide": "right"
+    },
+    {
+      "id": "ee4ccf0fc97b23bb",
+      "styleAttributes": {},
+      "fromNode": "5dab88f8eed8621b",
+      "fromSide": "right",
+      "toNode": "e7f16c887eeacde2",
+      "toSide": "left"
+    },
+    {
+      "id": "88e4293185076e9e",
+      "styleAttributes": {},
+      "fromNode": "dbc50b4187b4cf9b",
+      "fromSide": "right",
+      "toNode": "9abc0008912e9490",
+      "toSide": "left"
+    },
+    {
+      "id": "0bbed806e546a283",
+      "styleAttributes": {},
+      "fromNode": "e7f16c887eeacde2",
+      "fromSide": "bottom",
+      "toNode": "bf010eb9caeeae25",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

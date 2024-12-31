@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "d8decdd07ec7800e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -120,
+      "width": 1080,
+      "height": 760,
+      "label": "Background"
+    },
+    {
+      "id": "cd85387c0a567d83",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 620,
+      "y": -15,
+      "width": 440,
+      "height": 550,
+      "color": "5",
+      "label": "Implementation"
+    },
+    {
+      "id": "e4c40bd1828eab23",
+      "type": "text",
+      "text": "#### Dispatch Procedure\n![[sicp.pdf#page=267&rect=52,72,306,154|sicp, p.239]]\n...",
+      "styleAttributes": {},
+      "x": -1020,
+      "y": -80,
+      "width": 340,
+      "height": 220,
+      "color": "1"
+    },
+    {
+      "id": "2c9e7dcef32f8575",
+      "type": "text",
+      "text": "#### Operation-and-type table\n![[sicp.pdf#page=272&rect=57,398,366,514|sicp, p.244]]",
+      "styleAttributes": {},
+      "x": -990,
+      "y": 420,
+      "width": 280,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "c819a899a5115f7d",
+      "type": "text",
+      "text": "> [!PDF|] [[sicp.pdf#page=280&selection=6,43,8,37|sicp, p.252]]\n> >  In effect, this **decomposes** the *operation-and-type table* ==into rows==, with each generic operation procedure representing a row of the table.\n> \n> ",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 140,
+      "width": 400,
+      "height": 280,
+      "color": "4"
+    },
+    {
+      "id": "e0823415669d6866",
+      "type": "text",
+      "text": "# Message passing\n\n> [!PDF|] [[sicp.pdf#page=280&selection=9,0,12,17|sicp, p.252]]\n> > An alternative implementation strategy is to **decompose** the *table* ==into columns== and, instead of using “intelligent operations” that dispatch on data types, to work with “intelligent data objects” that **dispatch** on *operation names*. \n\n> [!PDF|] [[sicp.pdf#page=281&selection=27,1,29,29|sicp, p.253]]\n> >  The **name comes from** the image that a data object is an entity that ==receives the requested operation name as a “*message*.== \n> ",
+      "styleAttributes": {},
+      "isStartNode": true,
+      "x": 80,
+      "y": -20,
+      "width": 400,
+      "height": 600,
+      "color": "1"
+    },
+    {
+      "id": "a0e2933aa7b25fe2",
+      "type": "text",
+      "text": "![[sicp.pdf#page=280&rect=48,156,364,262|sicp, p.252]]\n\n![[Pasted image 20241230184911.png]]",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 15,
+      "width": 400,
+      "height": 320
+    },
+    {
+      "id": "5637102d1286c35d",
+      "type": "text",
+      "text": "![[sicp.pdf#page=281&rect=49,481,253,500|sicp, p.253]]\n\n> [!failure]- Limitation\n> It permits only generic procedures of ==one arg==.",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 395,
+      "width": 400,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1507e38bc38c3fd",
+      "styleAttributes": {},
+      "fromNode": "e4c40bd1828eab23",
+      "fromSide": "right",
+      "toNode": "c819a899a5115f7d",
+      "toSide": "left"
+    },
+    {
+      "id": "811d009f6171e960",
+      "styleAttributes": {},
+      "fromNode": "2c9e7dcef32f8575",
+      "fromSide": "right",
+      "toNode": "c819a899a5115f7d",
+      "toSide": "left"
+    },
+    {
+      "id": "e256eed2a419bec4",
+      "styleAttributes": {},
+      "fromNode": "c819a899a5115f7d",
+      "fromSide": "right",
+      "toNode": "e0823415669d6866",
+      "toSide": "left"
+    },
+    {
+      "id": "6ef15958b321ce86",
+      "styleAttributes": {},
+      "fromNode": "a0e2933aa7b25fe2",
+      "fromSide": "bottom",
+      "toNode": "5637102d1286c35d",
+      "toSide": "top"
+    },
+    {
+      "id": "155624181a6396fd",
+      "styleAttributes": {},
+      "fromNode": "e0823415669d6866",
+      "fromSide": "right",
+      "toNode": "cd85387c0a567d83",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

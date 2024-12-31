@@ -65,16 +65,6 @@
       "height": 400
     },
     {
-      "id": "77ffd25638eb917b",
-      "type": "file",
-      "file": "Map/Formal Derivative.canvas",
-      "styleAttributes": {},
-      "x": 20,
-      "y": -360,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "6142e14ebead31b9",
       "type": "file",
       "file": "Map/Implicit Differentiation.canvas",
@@ -106,6 +96,16 @@
       "height": 400
     },
     {
+      "id": "77ffd25638eb917b",
+      "type": "file",
+      "file": "Map/Formal Derivative.canvas",
+      "styleAttributes": {},
+      "x": 20,
+      "y": -360,
+      "width": 400,
+      "height": 400
+    },
+    {
       "id": "88708e9121e1da00",
       "type": "file",
       "file": "Map/Integral.canvas",
@@ -115,6 +115,16 @@
       "width": 660,
       "height": 400,
       "color": "6"
+    },
+    {
+      "id": "d21f818b451138d4",
+      "type": "file",
+      "file": "Permanent/Derivative.md",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": -1280,
+      "width": 400,
+      "height": 680
     }
   ],
   "edges": [

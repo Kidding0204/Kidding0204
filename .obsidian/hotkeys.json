@@ -45,15 +45,6 @@
       "key": "D"
     }
   ],
-  "remotely-save:start-sync": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "vimium:show-markers": [
     {
       "modifiers": [
@@ -96,6 +87,40 @@
         "Mod"
       ],
       "key": "K"
+    }
+  ],
+  "latex-ocr:paste-latex-from-clipboard": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "pdf-plus:rectangular-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
     }
   ]
 }

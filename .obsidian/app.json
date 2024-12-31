@@ -8,7 +8,7 @@
   "attachmentFolderPath": "Resource/Pictures",
   "readableLineLength": true,
   "showLineNumber": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "showRibbon": false,
   "userIgnoreFilters": [
     "Resource/Pictures/"
